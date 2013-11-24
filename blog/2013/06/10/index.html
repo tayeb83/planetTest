@@ -1,0 +1,317 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>التعابير النمطية و روبي - الجزء الثاني - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="هذا المقال هو تكملة للمقال السابق الذي بدأته حول التعابير النمطية في روبي. في هذا المقال سأبدأ بتكملة الأمثلة التي بدأتها سابقا ثم أنتقل إلى طريقة &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://tayeb83.github.io/planetTest/blog/2013/06/10">
+  <link href="/planetTest/favicon.png" rel="icon">
+  <link href="/planetTest/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/planetTest/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/planetTest/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/planetTest/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:tayeb83.github.io/planetTest" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/planetTest/">Blog</a></li>
+  <li><a href="/planetTest/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">التعابير النمطية و روبي - الجزء الثاني</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-06-10T00:00:00+02:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>هذا المقال هو تكملة للمقال السابق الذي بدأته حول التعابير النمطية في روبي. في هذا المقال سأبدأ بتكملة الأمثلة التي بدأتها سابقا ثم أنتقل إلى طريقة البحث و الاستبدال.</p>
+
+
+
+
+<!-- more -->
+
+
+
+
+<h2>تكملة  الأمثلة</h2>
+
+
+
+
+<h2>التكرار الجشع : </h2>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/regexp_ruby/repetition_gourmande.png" title="ruby_Regexp_gorumande"/></p>
+
+
+
+
+<h2>التجميع بواسطة الحاضنتين :</h2>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/regexp_ruby/group_parentese.png" title="ruby_Regexp_grouping"/></p>
+
+
+
+
+<h2>البدائل :</h2>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/regexp_ruby/replacement.png" title="ruby_Regexp_replacement"/></p>
+
+
+
+
+<h2>المراسي anchors :</h2>
+
+
+
+
+<p>المراسي عبارة عن أحرف أو بالأحرى رموز تساعد في حصر موقع التعبير النمطي :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/regexp_ruby/anchor.png" title="ruby_Regexp_anchor"/></p>
+
+
+
+
+<h2>البحث و الاستبدال :</h2>
+
+
+
+
+<p>من أهم الطرق أو العمليات الخاصة بالسلاسل في روبي العمليتين  sub و gsub. هاتين العمليتين تقومان بالبحث و الاستبدال على سلاسل الحروف باستعمال التعابير النمطية. أين sub تستبدل الحدوث الأول بينما gsub تستبدل كل الحوادث داخل السلسلة، لنأخذ أمثلة على ذلك :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/regexp_ruby/example_sub_gsub_1.png" title="ruby_Regexp_gsub1"/></p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/regexp_ruby/results_sub_gsub_1.png" title="ruby_Regexp_gsub1_result"/></p>
+
+
+
+
+<p>في المثال الأول النتيجة موضحة في الصورة المرفقة أين قمنا بحذف التعليقات بالsub  بينما قمنا بحذف كل مل هو حرف ماعدا  الأرقام بواسطة gsub.</p>
+
+
+
+
+<p>في المثال الثاني و بطريقتين مختلفتين باستعمال gsub فقط،  قمنابتكبير الحرف الأول من  كلمة tayeb إلى Tayeb.</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/regexp_ruby/example_sub_gsub_2.png" title="ruby_Regexp_gsub_2"/></p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/regexp_ruby/result_sub_gsub_2.png" title="ruby_Regexp_gsub2_result"/></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
+  </span>
+</div>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">مدونة الطيب الضادي</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-06-10T00:00:00+02:00" pubdate data-updated="true"></time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="/planetTest//twitter.com/share" class="twitter-share-button" data-url="http://tayeb83.github.io/planetTest/blog/2013/06/10/" data-via="" data-counturl="http://tayeb83.github.io/planetTest/blog/2013/06/10/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/planetTest/blog/2013/06/06/" title="Previous Post: لماذا لا يستعمل جوجل روبي ؟">&laquo; لماذا لا يستعمل جوجل روبي ؟</a>
+      
+      
+        <a class="basic-alignment right" href="/planetTest/blog/2013/06/30/tumbler/" title="Next Post: أدوات للعمل بTumbler">أدوات للعمل بTumbler &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/planetTest/blog/2013/11/21/">السعودية الدولة الأولى في تويتر</a>
+      </li>
+    
+      <li class="post">
+        <a href="/planetTest/blog/2013/11/20/australis/">Australis الواجهة الجديدة لفيرفكس</a>
+      </li>
+    
+      <li class="post">
+        <a href="/planetTest/blog/2013/11/13/xenu-link-sleuth/">Xenu Link Sleuth أداة تساعدكم في تحديد الروابط المبهمة</a>
+      </li>
+    
+      <li class="post">
+        <a href="/planetTest/blog/2013/11/12/">جيم للتعامل مع واجهة جوجل للترجمة في روبي</a>
+      </li>
+    
+      <li class="post">
+        <a href="/planetTest/blog/2013/11/11/">فتح الملفات بروبي</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

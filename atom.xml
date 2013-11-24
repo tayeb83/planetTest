@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tayeb83.github.io/planetTest/atom.xml" rel="self"/>
   <link href="http://tayeb83.github.io/planetTest/"/>
-  <updated>2013-11-24T19:24:58+01:00</updated>
+  <updated>2013-11-24T19:34:16+01:00</updated>
   <id>http://tayeb83.github.io/planetTest/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,27 +14,30 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Pablo Astigarraga Speaking at RS on Rails]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/09/11/pablo-astigarraga-speaking-at-rs-on-rails/"/>
-    <updated>2012-09-11T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/09/11/pablo-astigarraga-speaking-at-rs-on-rails</id>
-    <content type="html"><![CDATA[<p>Pote has just arrived from <a href="http://blog.cuboxlabs.com/blog/2012/08/08/cuboxer-pablo-astigarraga-speaking-at-eurucamp-2012/">speaking at Eurucamp</a>, and is boarding a plane again to Brazil.</p>
+    <title type="html"><![CDATA[السعودية الدولة الأولى في تويتر]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/11/21/"/>
+    <updated>2013-11-21T00:00:00+01:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/11/</id>
+    <content type="html"><![CDATA[<p>حسب دراسة قامت بها <a href="http://peerreach.com/">PeerSearch</a> لصالح الموقع <a href="http://mashable.com/2013/11/15/twitter-penetration-countries/">Mashable</a>، أظهرت السعودية الدولة الأكثر تمثيلا في تويتر. حسب الدراسة فإن 33% من السعوديين عندهم حساب على التويتر تليها اندونسيا بنسبة 19%,علي سبيل الذكر فإن الولايات المتحدة الامريكية تأتي في المرتبة الثامنة فقط.</p>
+
+
+<p>للعلم فإن الدراسة أخذت الحسابات التي غردت مرة واحدة على الأقل.</p>
 
 
 
 
-<p><img class="right" src="http://blog.cuboxlabs.com/images/rs-on-rails.jpg" title="RS on Rails" >He&#8217;ll be in Porto Alegre for <a href="http://rsonrails.com.br/">RS on Rails</a> giving his talk on <strong>Monolithic vs Modular Software: No Holy Grails</strong>.</p>
+<p><img src="http://media.tumblr.com/f0d73487d4609b485d90a57e863a7a3a/tumblr_inline_mwml6n42Fr1ra8vis.jpg"/></p>
 
 
 
 
-<p>The event will be held on September 15th, in Auditório do prédio 32, PUCR - Porto Alegre, Brazil.</p>
+<p></p>
 
 
 <div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
+  <img src="" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
   </span>
 </div>
 
@@ -42,41 +45,722 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Join Us Tomorrow for September&#39;s Ruby Meetup]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/09/10/join-us-tomorrow-for-september-s-ruby-meetup/"/>
-    <updated>2012-09-10T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/09/10/join-us-tomorrow-for-september-s-ruby-meetup</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://blog.cuboxlabs.com/images/meetup.png" title="Ruby Meetup" ></p>
+    <title type="html"><![CDATA[Australis الواجهة الجديدة لفيرفكس]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/11/20/australis/"/>
+    <updated>2013-11-20T00:00:00+01:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/11/20/australis</id>
+    <content type="html"><![CDATA[<p id="docs-internal-guid-10570ef7-75a2-e078-a65f-f527bb32e7c3"><span>كمستعمل يومي للمتصفح موزيلا فيرفوكس علمت منذ ساعات أن النسخة ال28 للمتصفح ستتمتع بواجهة جديدة تسمى <a href="https://blog.mozilla.org/ux/2013/11/australis-is-landing-in-firefox-nightly/">Australis</a>.</span></p>
+
+
+<p><span>اكثر دقة وبستايل بسيط، يوفر  Australis   بعض التغيرات الصغيرة التي من شأنها تحسين راحة المستخدم. مثلا، الايقونات ستكون مدورة أكثر، مما سيسمح بتحديد تلك المفتوحة بسهولة، القائمة الرئيسية ستكون على يمين عارضة الURL، مثلما هو الحال في كروم.</span></p>
+
+
+<p><span>المهم باقي الأشياء ستكتشفونها بعد اطلاعكم على هذه الواجهة الجديد</span></p>
+
+
+<p><span><img src="http://media.tumblr.com/5c9df3c730bdce8fe400f387a8523e4f/tumblr_inline_mwkctj6XQW1ra8vis.jpg"/></span></p>
 
 
 
 
-<p>Join us tomorrow, second Tuesday of September for this month&#8217;s Ruby Meetup. We are having some interesting talks:</p>
+<p><span> </span></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Xenu Link Sleuth أداة تساعدكم في تحديد الروابط المبهمة]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/11/13/xenu-link-sleuth/"/>
+    <updated>2013-11-13T00:00:00+01:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/11/13/xenu-link-sleuth</id>
+    <content type="html"><![CDATA[<p><br/><strong><a href="http://home.snafu.de/tilman/xenulink.html">Xenu Link Sleuth</a> عبارة عن أداة مجانية تشتغل على ويندوز فقط، التطبيق سيقوم بمسح كل الروابط وتحديد تلك التي لا تعمل: صور، css، سكريبت. سيعطيكم كل الأشياء التي لا تعمل داخل صفحاتكم. كما يعطيكم الإختيار بين اختبار الروابط الداخلية أو الخارجية فقط.</strong></p>
+
+
+
+
+<p><strong><img src="http://media.tumblr.com/b20912e76d34587fee9a01435353475e/tumblr_inline_mw73r7ExdA1ra8vis.png"/></strong></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[جيم للتعامل مع واجهة جوجل للترجمة في روبي]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/11/12/"/>
+    <updated>2013-11-12T00:00:00+01:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/11/</id>
+    <content type="html"><![CDATA[<p>في هذا المقال المختصر سأقدم لكم جيم Gem جميل جدا، تستطيعون من خلاله استعمال واجهة جوجل للترجمة من خلال واجهة سطر الأوامر فقط.</p>
+
+
+
+
+<!-- more -->
+
+
+
+
+<p>أول شيئ يجب القيام  به  هو تثبيث الجيم باستعمال الbundler أو باستعمال الطريقة المعتادة في تثبيث الجيمات كما هو موضح في الصورة :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/gemFilesImages/13.png" title="intr1"/></p>
+
+
+
+
+<p>الآن ما عليكم سوى تجريب المكتبة من خلال ارسال الأوامر داخل واجهة سطر الأوامر. على سبيل المثال يمكنكم إرسال الأمر الذي يعطيكم الغات التي يمكن أن يقرأها و اللغات التي يترجم لها، كما هو موضح في الصورة :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/gemFilesImages/015.png" title="intr1"/></p>
+
+
+
+
+<p>لاستعمال الجيم مباشرة  داخل واجهة سطر الأوامر، يمكنكم ارسال الأمر كالتالي :</p>
+
+
+
+
+<p><code>t  + اللغة المرادة +الجملة المراد ترجمتها</code></p>
+
+
+
+
+<p>الصورة التالية توضح لكم المثال و إن كانت الغة العربية ليست واضحة بواسطة واجهة الأوامر التي استعملها :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/gemFilesImages/016.png" title="intr1"/></p>
+
+
+
+
+<p>لمزيد من المعلومات يمكنكم زيارة مخزن المكتبة على ال github :</p>
+
+
+
+
+<p><a href="https://github.com/shvets/google-translate">https://github.com/shvets/google-translate</a></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[فتح الملفات بروبي]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/11/11/"/>
+    <updated>2013-11-11T00:00:00+01:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/11/</id>
+    <content type="html"><![CDATA[<p>كيف أفتح الملف داخل البرنامج و كيف يمكنني قراءته، سؤال طرحه كل واحد منا في جوجل أو على المنتديات المختصة، كيف لا و قراءة الملفات من أهم المهام التي نستعملها يوميا سواء في البرمجة أو خاصة في مجال البحث العلمي.</p>
+
+
+
+
+<!-- more -->
+
+
+
+
+<p>في هذا المقال سوف أعطيكم طريقة بسيطة من دون تعقيدات و تفصيلات حول طريقة فتح ،قراءة و كتابة الملفات.</p>
+
+
+
+
+<h2>قراءة ملف كامل :</h2>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/filereadingruby/1.png" title="intr1"/></p>
+
+
+
+
+<h2>الكتابة في ملف :</h2>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/filereadingruby/2.png" title="intr1"/></p>
+
+
+
+
+<p>الكودين  السابقين يغطيان قرابة %80 من احتياجات المبرمج لانجاز سكريبت سريع.</p>
+
+
+
+
+<h2>فيمايلي بعض الأمثلة حول قراءة الملف سطرا بسطر:</h2>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/filereadingruby/3.png" title="intr1"/></p>
+
+
+
+
+<h2>كتابة الملف المفتوح سطرا بسطر داخل جدول :</h2>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/filereadingruby/4.png" title="intr1"/></p>
+
+
+
+
+<h2>كتابة شيئ في نهاية الملف :</h2>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/filereadingruby/5.png" title="intr1"/></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Le.git سير عمل للبشر]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/11/09/le-git/"/>
+    <updated>2013-11-09T00:00:00+01:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/11/09/le-git</id>
+    <content type="html"><![CDATA[<p><a href="http://www.git-legit.org/">Le.git </a>عبارة عن سيرالعمل أو workflow يسهل العمل بgit. الأداة هي واجهة سطر الأوامر مكملة للبوابة. الأداة مستوحاة بشكل كبير من الأداة github للMac.</p>
+
+
+
+
+<p><img src="http://media.tumblr.com/8c86fc8e64d11d6b464caa46211c40c4/tumblr_inline_mw0pqzh6711ra8vis.jpg"/></p>
+
+
+
+
+<p></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[تهيئة Gedit من أجل روبي أون رايلز]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/11/09/gedit/"/>
+    <updated>2013-11-09T00:00:00+01:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/11/09/gedit</id>
+    <content type="html"><![CDATA[<p>أنا لست محب للمحررات التي معظمها ثقيلة نوعا ما و إن كانت فعالة مثل Eclipse أو RubyMine، لهذا فإنني أُُُفضل  محررا بسيط مثل gedit على الubuntu  مع استعمال حوسبة تساعد في تهيئة المحرر.</p>
+
+
+
+
+<!-- more -->
+
+
+
+
+<p>لو تستعملون  textmate فسنحاول أن نحول الgedit لشبيه هذا المحرر حتى نكون فعالين. لهذا و حتى نُحسن من المحرر gedit سنتعمل مجموعة من الحوسبة.</p>
+
+
+
+
+<p>في البداية سنضيف مخزن PPA يحتوي على حوسبات رايلز. داخل الterminal, يمكنكم ارسال الأمر التالي :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/geditConfig/intr1.png" title="intr1"/></p>
+
+
+
+
+<p>بعدها نقوم  بتثبيث حزمة المكونات الإضافية داخل أبونتو و تلك المتعلقة برايلز من خلال المخزن الذي أضفناه من خلال الأمر التالي كما هو موضح  في الصورة :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/geditConfig/intr2.png" title="intr2"/></p>
+
+
+
+
+<p>انتهينا، الآن يمكننا فتح  gedit و الذهاب إلى الPreferences و من ثم الأيقونة greffons للحصول على الأدوات المتعددة التي تم تثبيثها كما هو موضح في الصورة :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/geditConfig/pref002.png" title="pref2"/></p>
+
+
+
+
+<p>أو الأيقونة  : Polices &amp; Couleurs لتبديل الألوان و التي تسمح باختيار التيمات التي تريدونها، على سبيل المثال : تيمات الموقع railscast للذين يعرفونه كما هو موضح في الصورة :</p>
+
+
+
+
+<p><img src="http://tayeb83.github.com/dtmdeblog/images/geditConfig/pref003.png" title="pref3"/></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Query Translator أو كيف تترجم أمر MySQL إلى أمر MongoDB]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/11/08/query-translator-mysql-mongodb/"/>
+    <updated>2013-11-08T00:00:00+01:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/11/08/query-translator-mysql-mongodb</id>
+    <content type="html"><![CDATA[<p><a href="http://www.querymongo.com/">Query Translator</a> عبارة عن تطبيق يستطيع تحويل أمر MySQL إلى أمر MongoDB. التطبيق مجاني و لعل و عسى سيساعد في تعلم قاعدة بيانات NoSQL مثل MongoDB.</p>
+
+
+
+
+<p><img src="http://media.tumblr.com/bad905c4472cf8d1d9d8a19c33856adf/tumblr_inline_mvyo79P6Ly1ra8vis.jpg"/></p>
+
+
+
+
+<p></p>
+
+
+<p><img src="http://media.tumblr.com/459774eea45eca78187b6f38c58d2037/tumblr_inline_mvyod1vnYF1ra8vis.jpg"/></p>
+
+
+
+
+<p></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[محمد أربل هو مؤسس أفضل ستارتب في العالم]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/10/26/"/>
+    <updated>2013-10-26T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/10/</id>
+    <content type="html"><![CDATA[<p>محمد أربل شاب فرنسي تمكنت الساترتب التي أسسها مع شريكه رومان سيلفيان  من الفوز بلقب أفضل ستارتب في العالم بمناسبة أول مسابقة بين الساتربت من تنظيم جامعة ستانتفورد بالولايات المتحدة الأمريكية. و قد تمكن محمد و شريكه  من الفوز باللقب بواسطة موقع  <a href="http://www.goopil.co/">Goopil</a> و هو عبارة عن فاحص تطبيقات يسمح بتجميع مجموعة من أدوات موقع إلى موقع آخر.  Goopil تم اختياره من بين 143000ستارتب موزعة على 80 دولة في العالم.</p>
+
+
+
+
+<p> الموقع يتوقع أن يكون له مستقبل مشرق خاصة و أن ستانتفورد قد تتكفل بالبحث على آيجاد شريك تجاري يمكنه المساهمة في الموقع.</p>
+
+
+
+
+<p></p>
+
+
+<p><img src="http://media.tumblr.com/da342c95e9df3df2dbe023a6af9005b3/tumblr_inline_mva1s4OBpX1ra8vis.jpg"/></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[هل أنت تعمل من أجل...لاشيئ؟؟]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/09/17/"/>
+    <updated>2013-09-17T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/09/</id>
+    <content type="html"><![CDATA[<p>من السهل جدا الغرق في عمل و بذل الجهد فيه لاتمام ما نظن أنه  يجب القيام  به و لكن من الصعب فتح  البصيرة و التفكير و النظر في الثغرات و التساؤل &#8220;من أجل ماذا أقوم بهذا العمل؟&#8221;، اليكم  بعض الأسئلة التي يجب طرحها حتى تتيقنو أنكم لا تعملون من أجل لا شيئ.</p>
+
+
+
+
+<!-- more -->
+
+
+
+
+<h2>لماذا تقومون بهذا العمل أساسا؟</h2>
+
+
+
+
+<p>هل تفاجأتم يوما أنكم تعملون على أشياء لا تعرفون أصلا لماذا تعملون عليها؟ إلا لأن أناسا فوقكم طلبو منكم القيام بعمل و نفدتموه و فقط. هذه الوضعية  ليست نادرة، لهذا يجب عليكم مرار التساؤل حول هدف العمل الذي تعملونه؟ نتيجته؟ من المستفيد؟ما هو الدافع الذي دفعكم لهذا؟ الإجابة على هذه الأسئلة سوف تساعدكم على فهم بشكل سليم طبيعة العمل الذي تقومون به.</p>
+
+
+
+
+<h2>ما هو المشكل الذي أنتم بصدد حله؟</h2>
+
+
+
+
+<p>اين يتواجد المشكل؟ هل المستخدمون لديهم صعوبة في الفهم؟ هل أنتم كمطورين للمنتوج تجدون بغض الصعوبات؟ هل توجد أمور غير واضحة  بما فيه الكفاية؟   هل واجهتم شيئا كان مستحيلا قبل هذا و أصبح ممكنا؟ هذه الأسئلة سوف تبين لكم أنه في بعض الأحيان أنتم بصدد حل مشاكل خيالية،  ما عليكم القيام  به في هذه الحالة هو التوقف فورا و تقييم الاهمية الحقيقة لعملكم.</p>
+
+
+
+
+<h2>هل ما تقومون به نافع و مفيد؟</h2>
+
+
+
+
+<p>هل ما تقومون به ينفع حقا أو أنتم تعملون و فقط؟ نخلط كثيرا بين الحماس و الافادة. في بعض الأحيان، لا بأس بقليل من التسلية حتى ننتج شيئا جميل و لكن عاجلا أم آجلا سنطرح على أنفسنا السؤال الذي كان يجب طرحه و هو &#8220;هل ما نقوم  به ينفع و مفيد؟&#8221;، الشيئ الجميل ينفذ و يفنى عكس الشيئ المفيد.</p>
+
+
+
+
+<h2>أعطو لمنتوجاتكم  قيمة  أكثر</h2>
+
+
+
+
+<p>إضافة أي شيئ  لمنتوجكم أمر سهل و  لكن إضافة الشيئ الذي سيزيد من قيمته عكس ذلك. هل ما تعملون عليه يعطي قيمة  أكثر لمنتوجاتكم؟ هل قيمته ستزيد عند مستخدميكم؟ في بعض الأحيان محاولة زيادة قيمة  المنتوج تعطي انطباعا عكسيا قد يؤدي إلى هلاك المنتوج و ضياعه. كثرة الملح في الطعام تفقد الأكل لذته، لهذا فالقيمة لسيت زيادة لزيادة و لكن القيمة هي قضية اتزان يجب العمل على تحديدها.</p>
+
+
+
+
+<h2>هل يوجد حل سهل و بسيط؟</h2>
+
+
+
+
+<p>عندما تعملون على شيئ ابحثو دائما على الحل البسيط و السهل، تذكرو دائما أن كل المشاكل يمكن حلها بطريقة بسيطة و سهلة جدا و لكن المشكل في تفكيرنا الذي يخيل لنا أن الحل و لا بد أن يكون معقدا.</p>
+
+
+
+
+<h2>ماذا يمكنكم القيام به أثناء العمل؟</h2>
+
+
+
+
+<p>ماذا يمكنكم القيام به إذا لم تكونو تعملو على ما أنتم تعملون عليه الآن؟ السؤال و إن يبدو بسيطا و لكنه مهم و مهم جدا، خاصة  بالنسبة للفرق الصغيرة و التي لها امكانات محدودة و التي يجب عليها تحديد اولويات أكثر من غيرها. إذا كنتم تعملون على المشكل &#8220;أ&#8221; هل بامكانكم حل المشكل &#8220;ب&#8221; و &#8220;ج&#8221; بعد شهرين؟ أو بالعكس هل من الأحسن العمل على المشكلتين &#8220;ب&#8221; و &#8220;ج&#8221; و ترك المشكل &#8220;أ&#8221; بدون حل أو حله لاحقا. إذا انغمستم في عمل ما لمدة  طويلة فانكم و لابد أنكم ستتجاهلون أعمالا أخرى خلال هذه المرحلة.</p>
+
+
+
+
+<h2>هل هذا العمل يستحق الجهد الذي تبذلونه</h2>
+
+
+
+
+<p>هل ما تقومون به يستحق فعلا العناء؟هل هذا الاجتماع يستحق أن يقطع الفريق عمله لمدة ساعة كاملة؟ هل يستحق هذا العمل السهر ليلا؟ هل هذا التقرير الذي أصدره منافسكم يستحق كل هذا القلق؟ اطرحو على أنفسكم و على الآخرين هذا النوع  من الأسئلة  دائما و تكرارا، لا داعي لتغيير عادات العمل من أجل أشياء لا تستحق العناء أصلا. لا تضييعو الجهد و المال و الوقت الذي أنتم بحاجة اليه في اشياء لا تستحق حتى الالتفات اليها.</p>
+
+
+
+
+<p>للأمانة :</p>
+
+
+
+
+<p>هذا المقال مقتطف من الكتاب rework و الذي يركز  على كيفية العمل و التفكير من أجل زيادة الانتاج خاصة في الشركات الصغيرة، الناشئة أو بكل بساطة الأعمال الشخصية.</p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[أشياء تمنيت تعلمها في الجامعة - مدونة الطيب الضادي]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/09/10/"/>
+    <updated>2013-09-10T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/09/</id>
+    <content type="html"><![CDATA[<p><a href="http://tayeb83.github.com/dtmdeblog/blog/2013/08/01/achiaa-tmanyt-t3lmha-1#.Ui8SdH9n-3w.tumblr">أشياء تمنيت تعلمها في الجامعة &ndash; مدونة الطيب الضادي</a><div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;"></p>
+
+<pre><code>&lt;i&gt;Original post by &lt;a href="http://twitter.com/"&gt;الفريق الضادي&lt;/a&gt; - check out &lt;a href="http://blog.daade.org/"&gt;المدونة الضادية&lt;/a&gt;&lt;/i&gt;
+</code></pre>
+
+<p>  </span>
+</div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[مقولات من ذهب لأكبر المستثمرين في مجال الويب و الستارتب و أكبر الشركات العالمية :]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/09/08/"/>
+    <updated>2013-09-08T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/09/</id>
+    <content type="html"><![CDATA[<p><span>- سمعتك اكبر بكثير من راتبك و نزاهتك اكبر بكثير من حياتك المهنية - Ryan Freitas أحد مؤسسي about.me</span></p>
+
+
+<p><span>- المال مثل الوقود تحتاجه للسفر، و مع أنك لا تريد ان ينقصك في سفرك إلا أنك لن تدور و تجمعه من كل محطات البزين - Tim O&#8217;Reilly، مؤسس O&#8217;Reilly Media</span></p>
+
+
+<p><span>- إذا لم تستطع إطعام فريق ببتزتين، فهذا كثير - Jeff Bezos, مؤسس Amazon</span></p>
+
+
+<p><span>- لا تقلق من سرقة الناس لأفكارك و لكن يجب القلق من توقف تلك  الأفكار - Jeffrey Zeldman</span></p>
+
+
+<p><span>- قيمة الفكرة تكمن في استعمال هذه الأخيرة - Thomas Edison</span></p>
+
+
+<p><span>- السم القاتل هو شعور اتمام العمل،و الترياق هو التفكير في كل مساء على ما يمكن القيام به غدا - Ingvar Kamprad مؤسس IKEA.</span></p>
+
+
+<p><span>- نحن لا نتحدث عن الأفكار و لكن عن صنع  الأفكار - Scott Belsky مؤسس Behance</span></p>
+
+
+<p><span>- ليس عيبا أن تبقى صغيرا، فيمكنك عمل أشياء كبيرة بفريق صغير - Jason ried مؤسس 37signals</span></p>
+
+
+<p><span>- أخطأ كثيرا حتى تستطيع أن تنجح بسرعة - Tom Kelley مؤسس Ideo</span></p>
+
+
+<p><span>- لا تقلق  كثيرا بخصوص الفشل، فالمطلوب منك النجاح مرة واحدة فقط - Drew Houston مؤسس  dropbox</span></p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ال10 أشياء التي لا نتعلمها في المدرسة حسب بيل غاتس]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/08/30/10/"/>
+    <updated>2013-08-30T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/08/30/10</id>
+    <content type="html"><![CDATA[<p>قام بيل غاتس مؤخرا بإلقاء خطاب في مدرسة ثانوية بخصوص 10 أشياء لا نتعلمها في المدرسة و التي من الضروري تعلمها و بسرعة. يمكنكم عدم  الموافقة على هذه النصائح و لكن ما هو مؤكد أن بيل غاتس قد طبقها على نفسه و تعلمها و ساعدته في حياته الحافلة :</p>
+
+
+
+
+<!-- more -->
+
+
+
+
+<h2>النصيحة الأولى :</h2>
+
+
+
+
+<p>الحياة ليست عادلة و هذا شيئ يجب عليكم التعود عليه</p>
+
+
+
+
+<h2>النصيحة الثانية :</h2>
+
+
+
+
+<p>العالم لا يهتم كثيرا بما تحبونه و تريدونه، العالم ينتظر منكم أن تقدمو شيئ قبل أن يهنئكم.</p>
+
+
+
+
+<h2>النصيحة الثالثة :</h2>
+
+
+
+
+<p>لن تربحو 60000 دولار فور تخرجكم من المدرسة أو الجامعة، ان تكونو مدراء تركبون سيارات بسواق و GSM داخل السيارة. يجب استحقاق النجاح قبل الاستمتاع به.</p>
+
+
+
+
+<h2>النصيحة الرابعة :</h2>
+
+
+
+
+<p>لو تظنون أن استاذكم قاسي معكم فانتظرو رؤية مدير عملكم.</p>
+
+
+
+
+<h2>النصيحة الخامسة :</h2>
+
+
+
+
+<p>العمل في مطعم ليس عيبا، اجدادكم كان يطلقون عليه تسمية مختلفة : فرصة لا تعوض.</p>
+
+
+
+
+<h2>النصيحة السادسة :</h2>
+
+
+
+
+<p>عندما تخطؤن فهذا ليس بسبب الآخرين و لكن يجب التوقف على التدمر و التعلم من الأخطاء</p>
+
+
+
+
+<h2>النصيحة السابعة :</h2>
+
+
+
+
+<p>قبل ولادتكم حياة أباكم كانت أجمل بكثير من ما هي عليه و هذا ل:
+- ما كا نو يدفعون أموال لأجلكم
+- ما كانو يغسلون ثيابا سوى ثيابهم
+- و استماعهم يوميا لمدحكم أنفسكم</p>
+
+
+
+
+<p>لهذا و قبل حماية الغابات الاستوائية من الأخطار المختلفة، حاولو البدأ بتنظيف غرفكم و كل ما بوسعكم عمله في مساعدتهم في حياتهم اليومية.</p>
+
+
+
+
+<h2>النصيحة الثامنة:</h2>
+
+
+
+
+<p>في بعض المدارس، تم الغاء نظام &#8220;رابح-خاسر&#8221; فهناك مدارس ألغت تماما نظام الامتحانات حتى تعطي حظ كبير للتلاميذ، هذا النظام لن تعطيه  لكم الحياة.</p>
+
+
+
+
+<h2>النصيحة التاسعة :</h2>
+
+
+
+
+<p>الحياة  ليست مقسمة لفصول مثل العام الدراسي، و العطلة الصيفية ليس لها معنى في الحياة اليومية، أي عند بدأ العمل لا تنتظرو عطلة أو راحة فالمسؤولية لا تتماشى مع العطل.</p>
+
+
+
+
+<h2>النصيحة العاشرة :</h2>
+
+
+
+
+<p>التلفزيون لا يمثل الحياة الحقيقة أبدا. في الحياة الحقيقية الناس يتركون المقاهي للعمل ليس العكس…</p>
+
+
+
+
+<p>إذا أعجبتكم هذه النصائح و تعتقدون أنها مفيدة انشروها</p>
+
+
+<div class="author">
+  <img src="" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
+  </span>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ما هو التأثير الذي يحدثه المبرمج الجديد لحظة وصوله للفريق ؟]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/08/27/"/>
+    <updated>2013-08-27T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/08/</id>
+    <content type="html"><![CDATA[<p>في العالم الحافل بالبرمجة، أضحى التوظيف و أمسى جزءا لا يتجزأ من مشاغل الشركة الكثيرة، و بما أن الشركات في مجال الحاسوب لا تخلو أو لا تكاد تخلو من  المنتجات الجديدة  فإن التوظيف لا بد أن يتبع هذا التطور و التحديث من خلال توظيف كفاءات بامكانها ملئ الفراغات و إعطاء تصور واقعي لتلك الابتكارات و التخيلات التي زرعت في أذهان أصحاب القرار في الشركة.</p>
+
+
+
+
+<!-- more -->
+
+
+
+
+<p>للآسف هناك عدد محدود للمبرمجين في وقت مُعين ذوي الخبرة في أي مجال من مجالات البرمجة و بأي لغة كانت. و هذا يتطلب بذل جهد كبير للبحث و التنقيب على المبرمج المطابق لمواصفات العمل و الطلب من خلال الإكثار من المقابلات و التي تأخذ وقت كبير لوحدها فقط.</p>
+
+
+
+
+<p>و الخطأ الذي نراه في أغلب الشركات أن البحث على المبرمج يأخذ وقت كبير لدرجة أن العثور على المبرمج ُينسي الشركة العمل على تطبيق خطة دمج المبرمج  داخل الفريق و التي لا تقل أهمية عن البحث عن المبرمج. هذه الخطة مهمة جدا لأنها سوف تحدد إما سلبا أو إيجابا مدى فعالية المبرمج داخل الفريق.
+ فيما يلي بعض الملاحظات حول أهمية بناء خطة شاملة داخل الشركة لدمج المبرمج بصورة فعالة داخل الفريق لزيادة الانتاج و الفعالية للمبرمج و الفريق و الشركة:</p>
 
 
 
 
 <ul>
-<li><strong>foca</strong> (Nicolás Sanguinetti) is giving an introductory talk about <em>Git</em>.</li>
-<li><strong>Federico Brubacher</strong> will talk about <em>Lambda calculus</em>.</li>
-<li><strong> Michael Cetrulo</strong> will give a talk about <em>file-descriptors</em> and <em>redirections in bash</em>.</li>
+<li>من دون تأطيرفعال و من دون هيكلة ، المبرمجون المبتدؤن سيفقدون من فعاليتهم و تُصرف قواهم و مجهوداتهم و خاصة موهبتهم في أشياء قد لا تفيد الجميع.</li>
+<li><p>بغض النظر عن عن الكفاءة، المبرمج الجديد يخلق ما نسميه &#8220;الدين التقني&#8221; لأنهم سيتعاملون مع برامج  و طرق جديدة عليهم مما يستلزم بدل مجهود لمراقبة وتتبع ما يبرمجونه حتى لا يكون الفرق شاسع بين الأصلي و الجديد سواء في قلب الكود أو في نتيجته.</p></li>
+<li><p>يجب تحديد أهداف معقولة حول ما ننتظره من مبرمج جديد داخل الفريق، لهذا فطلب شيئ صعب من الوافدين الجدد قد يدفع بهم لتعطيل العمل و تعطيل سرعة الفريق لفترات طويلة نظرا لصعوبة المهمة في البداية.</p></li>
+<li><p>يجب تحديد فترة &#8220;السماح&#8221; يتم من خلالها تحديد أهداف معقولة للجدد، في هذه الفترة مثلا لن يكون المبرمج الجديد مطالبا بالعمل على البيانات الانتاجية و فيها يعتبر أي تقدم في البرمجة عبارة عن عمل خارج ما هو مطلوب فعلا.</p></li>
+<li><p>بغض النظر عن كفاءات المبرمج و التي تم توظيفه من خلالها فلا يجب الاعتقاد بأن المبرمج له كل الكفاءات و التكوين الكافي للقيام بالعمل المطلوب. هنا تأتي مرحلة الحوار مع المبرمج لملئ الفراغات الناقصة في التكوين و في المهارات.</p></li>
+<li><p>يجب إعطاء أهمية كبيرة  للمبرمجين الجدد فلربما  عندهم أفكار خاطئة حول البرمجة خاصة تلك التي تكون موجهة لأهداف انتاجية حول نطاق واسع و تستعمل بيانات كبيرة.</p></li>
+<li><p>لا يجب نسيان الأمور التي تساعد في فعالية الفريق باستمراركالتكوين،العمل الجماعي و العمل على ما أهم و تحديد الأهداف بدقة. والتي يجب تطبيقها و عدم الابتعاد عنها و تذكرها عندما يتجدد الفريق يمجيئ مبرمجين جدد أو ذهاب بعضهم من الفريق.</p></li>
+<li><p>عدم الخوف من الاستماع لانتقادات أعضاء الفريق و ملاحظاتهم حول التطور الملاحظ على المبرمجين الجدد. هذه الملاحظات يجب أن تكون أكثر حول سلوك المبرمج الجديد و درجة اندماجه أكثر من انتقاد كفاءاته والتي و إن كانت ناقصة من جهة فلعلها تكون كبيرة من جهة أخرى و بالتالي تقدم فائدة كبيرة كانت ناقصة للفريق.</p></li>
 </ul>
 
 
-
-
-<p>Also for this meetup, we are having <a href="http://www.davok.com.uy">Davok Craft Beer</a>, one of the greatest beers in our country.</p>
-
-
-
-
-<p>Sign up at <a href="http://www.meetup.com/rubymvd/events/78704592/">Meetup.com</a></p>
-
-
 <div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
+  <img src="" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
   </span>
 </div>
 
@@ -84,198 +768,33 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[We Are Joining New Context!]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/09/05/we-are-joining-new-context/"/>
-    <updated>2012-09-05T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/09/05/we-are-joining-new-context</id>
-    <content type="html"><![CDATA[<p>I’m thrilled to announce that we’re joining New Context. When I started Cubox, I wanted to create an environment where developers could shine. A place where I wanted to work, where people were smart and creative and worked hard. A place where we valued free software and community, contributing back to both.</p>
-
-
-
-
-<p>Cubox is that place. It’s an incredible group of people and i’m proud of the team. We built a world class team in Uruguay. The acquisition is a validation of everything we’ve done over the last few years.</p>
-
-
-
-
-<p>Cuboxers have helped with meetups, spoken at conferences around the world, helped make Ruby Conf Uruguay happen, released a ton of open source code. We’re not just about being the best in isolation, but engaging with the larger community so everybody can get better. Joining New Context lets us play on a larger stage.</p>
-
-
-
-
-<p>In building Cubox, I came realize that there’s more than just building a fantastic engineering team, developing products the right way. We need to look at what we’re building. Creating the best product isn’t always enough. Sometimes we’d build an amazing application only to find nobody wanted to use or pay for it. We realized that we needed a methodology for designing the product in conjunction with the market where it’ll be used. We joined the lean startup movement, we worked with our clients to look at customer development and collect usage metrics.</p>
-
-
-
-
-<p>New Context lets us do this work of providing agile development services to lean startups better. We’ve got a world wide network of amazing people to draw on. We’ve got access to Eric Ries, who literally wrote the book on lean startups. I’m not disappearing, but will be joining New Context as it’s CTO. We’re sticking around, I’m sticking around, and we’ll be building amazing things moving forward.</p>
-
-
-
-
-<p>Press release on <a href="http://newcontext.com/2012/09/05/new-context-acquires-control-of-cubox-leading-software-development-firm-in-south-america">New Context</a></p>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cuboxer Pablo Astigarraga Speaking at Eurucamp 2012]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/08/08/cuboxer-pablo-astigarraga-speaking-at-eurucamp-2012/"/>
-    <updated>2012-08-08T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/08/08/cuboxer-pablo-astigarraga-speaking-at-eurucamp-2012</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://blog.cuboxlabs.com/images/eurucamp-2012.png" title="Eurucamp 2012" >
-Pablo Astigarraga, best known as PoTe, will be <a href="http://2012.eurucamp.org/speakers.html#pablo-astigarraga">a speaker</a> at <a href="http://2012.eurucamp.org/">Eurucamp 2012</a>.</p>
-
-
-
-
-<p><em>This year&#8217;s eurucamp heads out of town to the biggest of Berlin&#8217;s abundant lakes, the Müggelsee. Talks will take place at the Hotel Müggelsee and activities will take place around (and possibly in) the lake.</em></p>
-
-
-
-
-<p>The conference will be held from August 17th to 19th. If you&#8217;re there, go say hi to Pote. His talk will be on Sunday at 12:00:</p>
-
-
-
-
-<p><img class="left" src="http://blog.cuboxlabs.com/images/pote_senior_developer.jpg" title="Eurucamp 2012" ></p>
-
-
-
-
-<h2>Monolithic vs Modular Software: No Holy Grails</h2>
-
-
-
-
-<p>One of the biggest problems in web development today is scalability. It&#8217;s a big problem, and not always easy to solve. The sheer number of requests that large applications need to process is huge, and increasing every day.</p>
-
-
-
-
-<p>One of the most elegant and widely adopted techniques to deal with this is favoring modular architectures over monolithic ones. Having a modular network of tiny apps makes it easier to have a robust, maintainable codebase. Adopting the Unix philosophy of doing one thing right is a topic that has been coming up at conferences and on blog posts all over the world lately, and with good reason.</p>
-
-
-
-
-<p>But is a modular architecture always the best solution? Is then a monolithic approach &#8220;wrong&#8221; from the get go? Sometimes building a modular system is worth it, sometimes it just isn&#8217;t. In this talk I put forward my thoughts and experiences dealing with refactoring your application into several small ones, how to build a monolithic app that can be easily split, how to approach the refactor gradually and incrementally, so as not to lose the ability to deliver new features, and how to decide when it&#8217;s simply not worth it.</p>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[On Git Commits and Programming Style]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/07/13/on-git-commits-and-programming-style/"/>
-    <updated>2012-07-13T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/07/13/on-git-commits-and-programming-style</id>
-    <content type="html"><![CDATA[<p>I recently had to send an email to our customer (and their developers) regarding mostly git usage and general Ruby coding style on our project.</p>
-
-
-
-
-<p>The list borrows standard concept from many places
-and experienced git users and ruby developers will most likely know most of its points, but I was told it would make a good blog post, so here is an adaptation of the email.</p>
-
-
-
-
-<h2>git</h2>
-
-
-
-
-<h3>On Git commit history:</h3>
-
-
-
-
-<ul>
-<li>Commit history is important, it&#8217;s even <em>more</em> important when we have a serious problem (IE: need to roll back changes for example). So make sure your commit messages are explanatory of what changes you introduce.</li>
-<li>Don&#8217;t be afraid to use <code>git commit --amend</code> locally, I for example tend to forget about it and commit a lot of &#8216;debugger&#8217; lines. So what I do is delete the lines, <code>git add . &amp;&amp; git commit --amend</code> will fix the commit, so it will never get to github. (Important Note: <em>never</em> ever do &#8211;amend <em>after</em> you have already pushed to github. Or stuff will get scary &#8211; if you do this you&#8217;ll need to force push to github later, and it&#8217;s possible that you delete commits by other people)</li>
-<li>Following the same reasoning: the first line of a commit message shouldn&#8217;t be longer than 50 characters. So as to keep it brief and easily parseable when you are reading through the commit history. If you need to  talk more in detail about what you are doing (it happens a lot, and it&#8217;s not bad at all) do <code>git commit</code> <b>without <code>-m</code></b>, so it goes into vim, and then write a short first line, leave an empty line and then describe the commit more in detail.</li>
-<li>Don&#8217;t mix stuff, if you have a lot of changes do atomic commits only of the relevant files or else it gets really difficult to rollback only one feature, for example. Always think: &#8220;If I had to do a release NOW and this didn&#8217;t work: can I roll it back easily?&#8221;. If the answer is yes then you should be good to go :).</li>
+    <title type="html"><![CDATA[ترتيب لأفضل البلدان ابتكارا]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/08/24/"/>
+    <updated>2013-08-24T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/08/</id>
+    <content type="html"><![CDATA[<p><span>صدرت منذ أيام </span>النسخة السادسة لل<a href="http://www.globalinnovationindex.org/content.aspx?page=gii-full-report-2013#pdfopener">global innovation index</a> . هذه الدراسةو التي تقوم باصدار ترتيب سنوي لأفضل البلدان ابتكارا في العالم، تسمح بتسليط الضوء على أفضل البلدان التي تشجع الابتكار كما أن الدراسة تعتمد على الابتكار كمؤشر رئيسي للتطور و الإزدهار.</p>
+
+
+<p><span>وعكس ما هو منتظر فإن الولايات المتحدة الأمريكية ليست البلد الأكثر إبتكارا في العالم فهناك قبلها العديد من الدول الأوروبية و التي نستشف من خلاله بأن بلد الخال السام ليست قبلة الابتكار. و إليكم الدول العشر الأكثر ابتكارا حسب هذا الترتيب&#160;:</span></p>
+
+
+<ul><li><span>سوسيرا</span></li>
+<li><span>السويد</span></li>
+<li><span>انجلترا</span></li>
+<li><span>هولندا</span></li>
+<li><span>الولايات المتحدة الأمريكية</span></li>
+<li><span>فنلندا</span></li>
+<li><span>هونك كونج</span></li>
+<li><span>سنغافورة</span></li>
+<li><span>الدنمارك</span></li>
+<li><span>ايرلندا</span></li>
 </ul>
 
 
-
-
-<h3>If you are working with Heroku</h3>
-
-
-
-
-<ul>
-<li>Don&#8217;t ever clone from the heroku repo, clone from the github repo and maintain that as <code>origin</code>, remember that we don&#8217;t use Heroku as version control, so make sure all your latest stuff is on github. There should never be a commit on heroku that was not in github first.</li>
-</ul>
-
-
-
-
-<h2>Ruby/General programming:</h2>
-
-
-
-
-<ul>
-<li>CSS in the views is a no-no.</li>
-<li>Always use two-space indentation (soft tabs), make sure your editor does not insert tabs instead of spaces, as that might look different on different editors.</li>
-<li>Same with JavaScript, a little is ok, big stuff goes into its own file (and in coffeescript, if possible).</li>
-<li>Trailing spaces: I will murder you in your sleep.</li>
-<li>Don&#8217;t leave empty lines at the end of a file. It gives me micro-seizures.</li>
-<li>Never comment code and leave it there, we have git to remember our stuff, just delete it!</li>
-<li>Always indent properly.</li>
-</ul>
-
-
-
-
-<p>There is a styleguide for ruby (made by the guys at github) linked below that is more or less consistent with the style we have at <a href="http://cuboxlabs.com">Cubox</a> (and with the standards on the Ruby community in general). Please read it, it&#8217;s only about 5~10 minutes and definitely worth it. :)</p>
-
-
-
-
-<h4>Further Reading</h4>
-
-
-
-
-<ul>
-<li><a href="http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html">On git commit messges</a> (A Torvalds-approved post)</li>
-<li><a href="https://github.com/styleguide/ruby">Github&#8217;s Ruby Styleguide</a></li>
-</ul>
-
-
-
-
 <div class="author">
-  <img src="http://poteland.com/images/avatars/red_mage.png" style="width: 96px; height: 96;">
+  <img src="" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/poteland">Pablo Astigarraga</a> - check out <a href="http://blog.poteland.com/">This is where I tell you stuff</a></i>
-  </span>
-</div>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
   </span>
 </div>
 
@@ -283,27 +802,66 @@ and experienced git users and ruby developers will most likely know most of its 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[New Cuboxer Jaime Davila]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/06/26/new-cuboxer-jaime-davila/"/>
-    <updated>2012-06-26T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/06/26/new-cuboxer-jaime-davila</id>
-    <content type="html"><![CDATA[<p>Just moved to Montevideo from Quito, Ecuador, <a href="http://www.diablo-urban-o.com/">Jaime Dávila</a> is our newest cuboxer. A polyglot programmer, Jaime prefers to code with Ruby and Objective-C.</p>
+    <title type="html"><![CDATA[ما هو المعنى الحقيقي لستارتب؟]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/08/19/"/>
+    <updated>2013-08-19T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/08/</id>
+    <content type="html"><![CDATA[<p>في خلال الايام الاخيرة  ومن خلال اهتمامي المتزايد بانشاء و كيفية تمويل مشاريع  البرمجة لفتت انتباهي كلمة  &#8220;ستارتب&#8221; و التي من خلال بعض الشروحات الموجودة في النت و جدت انها تعني بشكل كبير &#8220;شركة أو مؤسسة ناشئة و مبدعة في مجال التكنولوجيات الجديدة&#8221; و لكن هل هذا حقا هو التعريف الأصح لهذه الكلمة ؟</p>
 
 
 
 
-<p><img class="center" src="http://blog.cuboxlabs.com/images/jaime_davila.jpg" title="Jaime Dávila" ></p>
+<!-- more -->
 
 
 
 
-<p>You can follow him on Twitter <a href="http://twitter.com/diablo_urban_o">@diablo_urban_o</a> and Github <a href="https://github.com/JaimeAndres">JaimeAndres</a>.</p>
+<p>في الحقية التعريف في حد ذاته يثير تساؤلات كثيرة و يُعطي احساس بأن هناك شيئ لا يتوازى مع أهداف و طموحات من يسعون وراء انشاء ستارتب.</p>
+
+
+
+
+<p>عندما نُقرر انشاء ستارتب، فإننا نُقرر القيام بتحليل لسوق غير موجود. إذن من البداية الأمور ليست سهلة. و إذا أخذنا التعريف الذي ذكرته  سابقا فباعتبار الستارتب &#8220;ناشئة&#8221; و &#8220;مبدعة&#8221; فهذا يُعطي احساس أن الخبرة ليست موجودة، و من هنا تبدأ مشاكل منشأ الستارتب :
+كيف نثق في فريق ناشئ يُريد الدخول إلى سوق غير موجود بفكرة لم تكن موجودة من قبل؟ و إليكم نبذة مختصرة عن قصة إنشاء ستارتب :
+الإجابة على الأسئلة و تبرير وجود الستارتب&#8230;وفقط.</p>
+
+
+
+
+<p>فإذا كان من الصعب إنشاء الستارتب لهذه الدرجة  فلماذا القيام به؟؟؟
+إذن لعلها إرادة لتغيير الواقع  اليومي؟؟ فماهي حياته  اليومية إذن؟</p>
+
+
+
+
+<p>الستارتبر يأكل السندويشات بينما يذهب أصدقاءه للمطاعم، ينظم اجتماعات بعد صلاة  الجمعة بينما يذهب أصدقاءه للقيلولة أو التفسح، يؤجل عطله من أجل اجتماع هنا أو هناك و بكل تأكيد لا يفوت ثانية إلا و قد ألقى نظرة على الايميل.</p>
+
+
+
+
+<p>إذن فإنشاء الستارتب ليست عمل و إنما طريقة عيش&#8230;</p>
+
+
+
+
+<p>إنشاء ستارتب هو الذهاب بعيدا وراء الأرقام التي وصلت إليها أية دراسة سوق أو إحصائية، إنشاء الساترتب هو الايمان التام أن الفكرة ستنجح برغم الأرقام و الإحصائيات. الستارتب هي المراهنة على المستقبل و الايمان بأن المجتمع الذي نعيش فيه سيتقبل كل ماهو جديد من أفكار و مشاريع قد تغير من نمط المعيشة إلى الأفضل. إنشاء الستارتب هو تخطي حدود الصعوبات و الأزمات لتحويل المشكلة إلى فرصة.</p>
+
+
+
+
+<p>إنشاء الستارتب هو تقديم الأحلام  و توحيد الأفكار،هو تفضيل عالم و مجتمع يكافئ الإبداع و أين العمل له قيمته و أين المال وسيلة و ليست عقدة، هو ارتكاب أخطاء و التفكير و طرح  الأسئلة يوميا، هو الإبتعاد عن الرؤية لبعد و لكن تقريبها و العيش لغد قبل بعد غد.</p>
+
+
+
+
+<p>الستارتب هي قصة فريق تجمعهم فكرة و مشروع بالإضافة لقيم و اهتمامات تصب في بحر واحد.
+ستيف جوبز قال : الابداع هو وضعٌ اخترناه لأن  لأننا نعشق فكرة معينة. الستارتب هي تلك الوضع الذي اخترناه.</p>
 
 
 <div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
+  <img src="" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
   </span>
 </div>
 
@@ -311,107 +869,92 @@ and experienced git users and ruby developers will most likely know most of its 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[How to Get Good Developers]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/06/18/how-to-get-good-developers/"/>
-    <updated>2012-06-18T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/06/18/how-to-get-good-developers</id>
-    <content type="html"><![CDATA[<p>So for some unknown and weird reason I was contacted last week by someone from recruiting on a company that shall remain nameless,
-their intent wasn&#8217;t to hire me (or maybe it was, but they didn&#8217;t say it) but for me to give them advise on how to get in touch with
-highly skilled Ruby developers in Europe. They mentioned that I apparently lived there at some point and also misspelled my first name,
-which was really annoying.</p>
+    <title type="html"><![CDATA[أخطاء ترتكبها كرائد للمشروع تُحبط الموظفين و تعجل برحليهم من مشروعك]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/08/13/"/>
+    <updated>2013-08-13T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/08/</id>
+    <content type="html"><![CDATA[<p>ذهاب موظف كفء يمكن أن تكون له نتائج  لا تحمد عقباها لأي مشروع أو لأي شركة. خاصة إذا كان الموظف هو العمود الفقري لمشروع حيوي للشركة يمكن أن يشكل ذهابه  ضربة قاضية. في أي مجال و في مجال الحاسوب خاصة، يسعى قائد المشروع بالإضافة للبحث عن الموظف الكفء يسعى للحفاظ على بقاءهم بتحفيزهم معنويا و ماليا، في هذا المقال سأعرض في نقاط أهم الأخطاء التي يجب تفاديها للحفاظ على الموظفين خاصة الكفء منهم :</p>
 
 
 
 
-<p>I was bored today and felt like writing a response with some good advise, not really for their sake, but to try and help a bit
-to create a good ecosystem for programmers to work on, what follows is my reply, which I wrote a moment ago. I will just paste it here
-in the hope that it might be useful for other Recruiters. And maybe save myself a few emails in the future. :)</p>
+<!-- more -->
 
 
 
 
-<h2>The email</h2>
+<h2>تقييد حماسة و شغف الموظفين :</h2>
 
 
 
 
-<p> I&#8217;m sorry I took a long time to answer your email, it was weird receiving it. Allow me to point which parts of it didn&#8217;t make much sense before giving you some advice on how to get in touch with good Ruby developers. :)</p>
+<p> الشركات الذكية هي التي توازي بين شغف الموظفين  و أهداف الشركة. من الناحية الإنسانية من الصعب جدا إبعاد الإنسان عن ما يريده و يحبه، لهذا فإذا كان هناك قلة اهتمام لشغف أي موظف، فهذه رسالة غير مياشرة تدعو فيها الموظف للمغادرة.</p>
 
 
 
 
-<p> I haven&#8217;t really ever been to Europe, ever, and I only very recently spent about two months in the USA, also, you misspelled my first name, which let me tell you is a pretty horrible selling point. You need to take care of that stuff, specially since most good Ruby developers are pretty spoiled from a really favorable (for us) market right now, and used to be treated as highly valuable people are. Be careful about the small details, most of us have at least mild OCD and tend to notice this stuff. It&#8217;s annoying.</p>
+<h2>احتقار القدرات و الذكاء :</h2>
 
 
 
 
-<p> On to the advice you need: If you want good developers there are some main things you need to do:</p>
+<p>الانسان الذكي بطبيعته يكره العيش في جو يبعث على الملل، لهذا فإذا قلة التحفيزات و التحديات ستشجع فتأكد هذه الفئة للمغادرة لا محالة و سيبحثون عن من يعطيهم تحديات يومية و لا يحتقر ذكاءهم.</p>
 
 
 
 
-<h3>Make yourself present at conferences.</h3>
+<h2>عدم تحفيز قدراتهم الإبداعية :</h2>
 
 
 
 
-<p> We really pay a lot of attention to them, and highly trained developers attend those conferences either as speakers or attendees, try sponsoring  a few for a start, or pay for a drinkup for the conference attendees after the event is done, EuRuKo (the last European conference held in Amsterdam recently) was on <em>every</em> Ruby developer twitter feed, your logo being everywhere and you being nice to people will tell us the two main things we want to know from a company before joining it: you are willing to give back to the open source community and you are fun and relaxed to work with. That&#8217;s <em>really</em> important stuff.</p>
+<p>الموظف  الممتاز يحب الابداع  والاتقان في كل شيئ. الرائد الكفء لا يحبس قدرات موظفيه بل بالعكس يحررها، و لكن حذاري عندما نتكلم هنا عن تحرير القدرات ليس في اغراق الموظف في كل ما هو غير مهم و لكن اشراكه و تحميله مهام خارجة عن ما هو مطلوب منه، ما هي الفائدة من امتلاك  حصان لا يتحرك  بعيدا عن مربطه.</p>
 
 
 
 
-<h3>Pinpoint developers from open source projects an reach  out to them.</h3>
+<h2>لم تهتم بتطوير قدراتهم و معارفهم :</h2>
 
 
 
 
-<p>Do your research, find out about good open source code in github,  who maintains it, who originally wrote it, who contributed, don&#8217;t do stupid stuff like trying to get the original creator of Ruby on Rails as a &#8220;Ruby developer&#8221;,  people in the open source world tend to be above average programmers, mainly due to their code being public and peer reviewed by a lot of other developers, we all learn a lot from that experience and grow to be the strong technical people  that you need.</p>
+<p>الريادة  ليست محطة وصول نهائية و لكن طريق لا تنتهي من التطور الذاتي و الشخصي. لا يهم إن كان الموظف ذكيا أو ماهرا ولكن تذكرو أنه يوجد دائما متسع كبير لتطوير و تنمية الذات، و لهذا لا يجب رسم  حدود حول قدرات الشخص للتطور داخل الشركة.</p>
 
 
 
 
-<p> People with passion for what they do that will the extra mile on their own free will, because we feel proud of our code and want our products to succeed, being a programmer is much like being a gardener, or an architect, or some other form of art, only (for me at least) better. Because we spawn things with our minds and hard work and to see our brainchilds succeed is one of the greatest sources of joy we find. You want people with that sort of passion.</p>
+<h2>لا تسمع إليهم لأنك أنت المدير أو الذي يتخذ القرارات :</h2>
 
 
 
 
-<h3>Spoil your developers (maybe not that much, but at least a little)</h3>
+<p>الموظف الجيد يمتلك أفكار و ملاحظات جيدة هذه كلنا يعرفها و لكن يجب السماع لهم حتى تستفيد أنت و الشركة من هذه الأفكار و إلا فتذكرو أن هناك  من سيستمع  إليهم و يأخذ بأفكارهم, ولهذا من خصائص الريادي الناجح هو حسن الاستماع لموظفيه و من يعمل معه و الأمثلة كثيرة  حول ذلك.</p>
 
 
 
 
-<p>For better or worse most good developers today are really spoiled by the companies hiring them, and we&#8217;ve grown used to that, because of that it is <em>highly</em> unlikely that me or any developer that is happy leaves his or her job, and it&#8217;s <em>very likely</em> that a developer who feels mistreated, be it lack of respect for his work, considering him/herself underpaid or whatever other such thing will leave fairly quickly for greener pastures. The market has need of us and we are used to it. It&#8217;s just a fact that companies need to deal with these days.</p>
+<h2>التعامل مع الموظفين كموظفين و فقط :</h2>
 
 
 
 
-<h3>Allow remote work</h3>
+<p>الموظف يأتي للعمل من أجل المال و الراتب، هذه حقيقة يتفق معها الجميع، و لكن من قلة الحكمة  أن نعتقد أن الموظف عندما يخرج  من بيته يأتي للعمل  للبحث عن الراتب فقط.  ولهذا أكدت الدراسات أن الراتب ليس العامل الوحيد الذي يبحث عنه الموظف عند استلامه الوظيفة أو لبقاءه  فيها. فعدم  الاهتمام بالناحية الانسانية و العاطفية خطأ يجب تفاديه بقدر المستطاع.</p>
 
 
 
 
-<p>This is unfortunately just a no-brainer for you, most developers have their lives and the possibility of working remotely. Having a distributed team introduces some difficulty in team management but also gives you a much larger pool of suitable candidates, specially highly skilled developers, they can work for good companies from home, if they can&#8217;t do so for your company they are likely to not be interested.</p>
+<h2>تتجاهل مشاريعهم الخاصة أو لا تعطيهم الوقت الكافي لها :</h2>
 
 
 
 
-<p> I think those are the main facts, of course they don&#8217;t particularly apply to European developers, but Asian, South American, you name it. Wish you the best of luck with your company. :)</p>
-
-
+<p>المُسير أو الريادي الكفأ لا يسرق عمل موظفيه على أساس أنها منه، فكل مُسير لا يعطي قيمة لأعمال موظفيه لا يستحق القيادة و مع طول الوقت لن يتماسك مشروعه  ولن يدوم.</p>
 
 
 <div class="author">
-  <img src="http://poteland.com/images/avatars/red_mage.png" style="width: 96px; height: 96;">
+  <img src="" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/poteland">Pablo Astigarraga</a> - check out <a href="http://blog.poteland.com/">This is where I tell you stuff</a></i>
-  </span>
-</div>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
   </span>
 </div>
 
@@ -419,47 +962,87 @@ in the hope that it might be useful for other Recruiters. And maybe save myself 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Evan and Diego on National TV]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/06/15/evan-and-diego-on-national-tv/"/>
-    <updated>2012-06-15T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/06/15/evan-and-diego-on-national-tv</id>
-    <content type="html"><![CDATA[<p><a href="http://www.canal20.com.uy/programacion/punto-tecno/">Punto Tecno</a> is a TV show about technology news in Uruguay, focusing on the latest products and trends in communication and computers. Both Evan and Diego were recently invited to the show. You can watch both interviews below:</p>
+    <title type="html"><![CDATA[هل أنت فعلا قادر على انشاء مشروع خاصة بك ؟]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/08/12/"/>
+    <updated>2013-08-12T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/08/</id>
+    <content type="html"><![CDATA[<p>من خلال قراءتي لبعض المقالات حول مهنة انشاء شركة أو مشروع بصفة عامة وجدت أنه فيه بعض الأسئلة التي يجب على كل من يريد الخوض في  مثل هذه المغامرة أن يطرحها على نفسه حتى لا يخرج عن الطريق و إن كنت أرى أن الخطأ و لا بد منه للتعلم&#8230;</p>
 
 
 
 
-<p>Cubox founder Evan Henshaw was invited to talk about the beginings of Twitter and how the company came to be:</p>
+<!-- more -->
 
 
 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/cMUcUgocHb8" frameborder="0" allowfullscreen></iframe>
+<h2>هل أنت مرتاح لفكرة المجازفة ؟</h2>
 
 
 
 
-<p>Diego Algorta, Cubox CEO, was invited to talk about the existence of a new internet bubble like the dot com bubble in the 2000&#8217;s:</p>
+<p>مهنة ريادة الأعمال تستلزم بطبيعتها العيش في المجهول. هل أنت ممن يفر من العيش في المجهول؟ إذا كان الجواب بنعم إذن إنشاء عمل أو مشروع ربما لن تكون أفضل الحلول لك. بالعكس إذا كنت ممن يحبون القشعريرية التي تولدها المجازفة إذن توكل على الله.</p>
 
 
 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/Ri5LIVP3Dl8" frameborder="0" allowfullscreen></iframe>
+<h2>هل عندك ميل للاستقلالية ؟</h2>
 
 
 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/E9E2Uv8xC7g" frameborder="0" allowfullscreen></iframe>
+<p>رائد الأعمال في أي مجال كان يجب أن يتحمل على عاتقه أخذ القرارات يوميا منها الصعبة و منها غير ذلك. فإذا كنتم ممن يؤمنون بقدراتهم و لا يخافون الرفض، فهذا عامل ايجابي سيساعدكم في خوض التجربة.</p>
 
 
 
 
-<p>Thanks to <a href="http://www.canal20.com.uy">Canal 20</a> and reporter Gerardo Sotelo for the invitation.</p>
+<h2>هل تجيد مهارة و فن الإقناع ؟</h2>
+
+
+
+
+<p>تذكر دائما أنه  يمكنك أن تبتكر أفضل فكرة  في العالم و لكن إذا كنت لا تستطيع إقناع الزبائن أو من تريده أن يتعامل معك مستقبلا، فإن مهنة الريادة  ستكون قمة صعب المنال. و بالعكس إذا كنت من الذين يحبون التكلم أمام الملأ و ممن يفتحون نقاشات بسهولة مع أناس لا تعرفهم مع اتقان فن النقاش و الجدال و الإقناع، فأنت مهيأ بنسبة كبيرة لهذه المهنة.</p>
+
+
+
+
+<h2>هل تجيد التفاوض؟</h2>
+
+
+
+
+<p>إذا كان هذا أول مشروع  ستقوم  به فإنه ستضطر للتفاوض على أي شيئ : العقود، ثمن المعدات، رواتب العمال، مساهمات المستثمرين. لهذا فإن كفاءات عالية في التفاوض ستساعدك في توفير مال كثير أنت بحاجة  إليه لتنمية مشروعك.</p>
+
+
+
+
+<h2>هل أنت مبدع ؟</h2>
+
+
+
+
+<p>سؤال كبير و عام  ولكنه مهم. هل أنت ممن لديه فكرة كل ما هو قاعد في السيارة أو يتفرج  على التلفاز؟ هل أنت ممن لديه أفكار جديدة تساعده في التخلص من مشاكل يمكنها أن تلم  به في أي وقت من الأوقات؟ تذكر دائما أن الريادي الناجح يستطيع أن يستفيد من النجاحات أو من الأخطاء و ينتج منها أفكار جديدة يمكنها تنمية مشروعه أو على الأقل حل مشاكل كثيرة  يمكن تفاديها.</p>
+
+
+
+
+<h2>هل تحظى بمساعدة الأقارب و هل لديك شبكة مهنية جيدة؟</h2>
+
+
+
+
+<p>من المهم للريادي أن يحظى بثقة و تشجيعات الأقارب. قبل البدأ في أي مشروع تأكد من قوة الشبكة حولك من الأقارب حتى الأصدقاء، فأنت لا تدري القوة  التي يمكن أن تتلقاها من خلال تشجيعات أقاربك و أصدقاءك و المساعدة التي يمكن أن يقدموها لك، ولعله لا يوجدأفضل من الاستفادة من تجارب الأقارب و الاصدقاءو استغلال خبرتهم و نصائحهم لصالح مشروعك.</p>
+
+
+
+
+<p>أتمنى أن ينال المقال إعجابكم و أن تلقى هذه الأسئلة أجوبة عندكم، هذا و المجال مفتوح لمناقشة الموضوع و طرح  الأسئلة التي نسيتها أو لم أركز عليها و التي تعتقدون أنها مهمة و أساسية.</p>
 
 
 <div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
+  <img src="" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+    <i>Original post by <a href="http://twitter.com/">مدونة الطيب الضادي</a> - check out <a href="http://tayeb83.github.com/dtmdeblog/">مدونة الطيب الضادي</a></i>
   </span>
 </div>
 
@@ -467,42 +1050,22 @@ in the hope that it might be useful for other Recruiters. And maybe save myself 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[June Ruby Meetup]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/06/11/june-ruby-meetup/"/>
-    <updated>2012-06-11T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/06/11/june-ruby-meetup</id>
-    <content type="html"><![CDATA[<p>Tomorrow is the second Tuesday of the month, so it&#8217;s time for this year&#8217;s third Ruby Meetup.</p>
+    <title type="html"><![CDATA[عيد مبارك]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/08/08/"/>
+    <updated>2013-08-08T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/08/</id>
+    <content type="html"><![CDATA[<p><span>أسرة الضاد تهنئكم بعيد الفطر المبارك. تقبل الله طاعاتكم وأعاده الله على أمتنا العربية والإسلامية بالخير واليمن والبركات، كل عام وأنتم بخير.</span><img src="http://media.tumblr.com/380a252d2782cf76d119895ca762c27f/tumblr_inline_mr80s7D5Hz1qz4rgp.png"/></p>
 
 
 
 
-<p><img class="center" src="http://blog.cuboxlabs.com/images/meetup.png" title="Ruby Meetup" ></p>
-
-
-
-
-<p><a href="http://poteland.com/">Pablo Astigarraga (PoTe)</a> is telling us about <a href="https://github.com/pote/planet.rb">planet.rb</a>, a gem he developed which works as a RSS aggregator to make &#8220;planet&#8221; sites.</p>
-
-
-
-
-<p>The meetup is open for more talks, so we might have some other technical discussions. Anyone can propose a talk!</p>
-
-
-
-
-<p>As usual, we&#8217;ll be hosting it in our CoworkingMVD space, at Bulevar España 2259. There&#8217;ll be pizza and drinks. And remember, if your company wants to host the meetup at their offices, or provide the drinks and food, you are more than welcome.</p>
-
-
-
-
-<p>Sign up at <a href="http://www.meetup.com/rubymvd/events/64127672/">Meetup.com</a>.</p>
+<p></p>
 
 
 <div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
+  <img src="" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
   </span>
 </div>
 
@@ -510,1906 +1073,44 @@ in the hope that it might be useful for other Recruiters. And maybe save myself 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Cuboxer Bruno Aguirre Confirmed as a Speaker at Euruko 2012]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/05/21/cuboxer-bruno-aguirre-confirmed-as-a-speaker-at-euruko-2012/"/>
-    <updated>2012-05-21T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/05/21/cuboxer-bruno-aguirre-confirmed-as-a-speaker-at-euruko-2012</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://blog.cuboxlabs.com/images/euruko.png" title="Euruko 2012" >
-We are very proud to announce cuboxer Bruno Aguirre (a.k.a. &#8220;cuervo&#8221;) will <a href="http://www.euruko2012.org/speakers.html#bruno-aguirre">one of the speakers</a> at <a href="http://www.euruko2012.org">Euruko 2012</a>:</p>
+    <title type="html"><![CDATA[الbenchmarking في روبي]]></title>
+    <link href="http://tayeb83.github.io/planetTest/blog/2013/08/04/benchmarking/"/>
+    <updated>2013-08-04T00:00:00+02:00</updated>
+    <id>http://tayeb83.github.io/planetTest/blog/2013/08/04/benchmarking</id>
+    <content type="html"><![CDATA[<p>الbenchmarkingأو قياس سرعة الكود من الأمور المهمة  التي يحتاج  اليها كل مبرمج.  لغة  البرمجة  روبي أعطت هذا الجانب أهميته  من خلال مكتبات افتراضية  يمكننا استعمالها للقياس. لهذا السبب و من أجل توضيح أكثر، ظهر مقالين يشرحان عملية الbenchmarking في روبي، المقالين مكملان لبعضهما بحيث يشرح  <a href="http://tayeb83.github.io/dtmdeblog/blog/2013/08/02/benchmarking-profiling-ruby/">الأول</a> العملية و كيفية  استعمالها في روبي، بينما يقوم <a href="http://tayeb83.github.io/dtmdeblog/blog/2013/08/02/benchmarking-profiling-ruby-example/">المقال الثاني</a> بطرح  مثال تطبيقي من خلال مقارنة  طريقتين بروبي لحساب متتالية  fibonacci.</p>
 
 
 
 
-<blockquote><p>EuRuKo is an annual conference about the Ruby language with an informal atmosphere and lots of opportunities to listen, to talk, to hack and to have fun.</p></blockquote>
+<p>المقال الأول&#160;:</p>
+
+
+<p><a href="http://tayeb83.github.io/dtmdeblog/blog/2013/08/02/benchmarking-profiling-ruby/">http://tayeb83.github.io/dtmdeblog/blog/2013/08/02/benchmarking-profiling-ruby/</a></p>
+
+
+<p>المقال الثاني&#160;:</p>
+
+
+<p> http://tayeb83.github.io/dtmdeblog/blog/2013/08/02/benchmarking-profiling-ruby-example/</p>
 
 
 
 
-<p>The conference will be held on June 1st and 2nd in Amsterdam and tickets are already sold out.</p>
+<p></p>
+
+
+<p><img src="http://media.tumblr.com/9f8cceb8f82b4ce9f15fed9e83c1a7c6/tumblr_inline_mr095iZVBy1qz4rgp.jpg"/></p>
 
 
 
 
-<p><img class="left" src="http://blog.cuboxlabs.com/images/bruno.jpg" title="Bruno &#34;cuervo&#34; Aguirre" alt="Bruno &#34;cuervo&#34; Aguirre">Bruno will be giving the following talk:</p>
-
-
-
-
-<h2>The Future is Dead: Long live the Past</h2>
-
-
-
-
-<p>We keep looking for good ideas to improve our code, to make our systems even more
-powerful. But there are a lot of good ol&#8217; ideas that are resurfacing and most
-of them were already thought about years ago.</p>
-
-
-
-
-<p>I propose a journey through technology archeology to re-discover all that tools
-that are buried deep into the internetz.</p>
-
-
-
-
-<p>Remember the scriptures of ‘The unix way’, the HTTP reference engraved in stone
-and learn from the elders about concurrency and single responsibility.</p>
-
-
-
-
-<ul>
-<li>Old new HTTP</li>
-<li>The Unix way in a modern world</li>
-<li>RDBs mystic powers</li>
-<li>&#8230; more stuff for free</li>
-</ul>
-
-
-
-
-<h3>Why should i care?</h3>
-
-
-
-
-<p><em>We have a lot of COOL new technologies like a Nodejs Fibonacci server and stuff</em></p>
-
-
-
-
-<p>New technologies are great, but they are only a part of all the old ones that
-are buried in people&#8217;s mind. I want to show the amazing ideas that were crafted
-years ago and are waiting to return.</p>
-
-
-
-
-<p><em>Old things are old and … like… old stuff sucks</em></p>
-
-
-
-
-<p>A lot of old stuff sucks but a lot of it can teach us the way of crafting
-optimized code and solid solutions without being monolithic. And remember
-satellites and spaceships code were made without EC2.</p>
-
-
-
-
-<p>If you go to Euruko, find Bruno and ask him for a hug.</p>
+<p> </p>
 
 
 <div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
+  <img src="" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Thanks for a Great Ruby Meetup]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/05/15/thanks-for-a-great-ruby-meetup/"/>
-    <updated>2012-05-15T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/05/15/thanks-for-a-great-ruby-meetup</id>
-    <content type="html"><![CDATA[<p>Last week we hosted the monthly Ruby Meetup at Cubox. We had a great level of talks and a good pressence of developers.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/rubymeetup02/rubymeetup-01.jpg" title="Ruby Meetup" ></p>
-
-
-
-
-<p>First Martin Loy from <a href="http://guruhub.com.uy/">Guruhub</a> gave a talk about scaling Rails. He compared the results at his company using different available Ruby webservers: <a href="http://unicorn.bogomips.org/">Unicorn</a>, <a href="https://github.com/matadon/mizuno">Mizuno</a>, Passenger and <a href="http://torquebox.org/">Torquebox</a>. It was his first time working with Ruby and he shared his experiences and results with each server.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/rubymeetup02/rubymeetup-02.jpg" title="Ruby Meetup" ></p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/rubymeetup02/rubymeetup-03.jpg" title="Ruby Meetup" ></p>
-
-
-
-
-<p>You can see his presentation <a href="https://docs.google.com/a/cuboxsa.com/presentation/d/1wY-irVmSKVNnapA2d8f3drPxAvS3U52kePbY3pt0gCI/edit?pli=1#slide=id.g30b4d23_0_133">on this link</a>.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/rubymeetup02/rubymeetup-04.jpg" title="Ruby Meetup" ></p>
-
-
-
-
-<p>Then Federico Wagner from Artech talked about Genexus, a code generation tool, its Ruby generator and how Ruby is used in the company. It was an improvised talk and gave to very interesting discussion.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/rubymeetup02/rubymeetup-05.jpg" title="Ruby Meetup" ></p>
-
-
-
-
-<p>After the first two talks we had the pizzas, beer and sodas. As always, great discussions and conversations among the developers.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/rubymeetup02/rubymeetup-06.jpg" title="Ruby Meetup" ></p>
-
-
-
-
-<p>Last but not least, our own foca gave a talk about <a href="https://github.com/ddollar/foreman">foreman</a>, a command line application to manage procfile-based apps.</p>
-
-
-
-
-<p>As always, thanks for coming to the Ruby meetup. If you&#8217;re interested in future events, check the <a href="http://www.meetup.com/rubymvd/">meetup page</a>. If you or your company wants to help out <a href="http://www.meetup.com/rubymvd/sponsor/">sponsoring a meetup</a>, you&#8217;re more than welcome.</p>
-
-
-
-
-<p>Ruby meetups will be held every second Tuesday of the month.</p>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[May Ruby Meetup]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/05/07/may-ruby-meetup/"/>
-    <updated>2012-05-07T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/05/07/may-ruby-meetup</id>
-    <content type="html"><![CDATA[<p>Join us this Tuesday, May 8th, to the second Ruby meetup of this year. We are hosting the event at the Coworking on <a href="http://maps.google.com/maps?q=@-34.912094,-56.159280">Bulevar España 2529</a>.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/meetup.png" title="Ruby Meetup" ></p>
-
-
-
-
-<p>We expect you from 7:30 pm, we&#8217;ll have some technical talks, pizza, sodas and beer. You can register on <a href="http://www.meetup.com/rubymvd/events/59310672/">the event&#8217;s page on Meetup.com</a>.</p>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Migrate Your Blog to Octopress Using planet.rb]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/04/20/migrate-your-blog-to-octopress-using-planet-rb/"/>
-    <updated>2012-04-20T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/04/20/migrate-your-blog-to-octopress-using-planet-rb</id>
-    <content type="html"><![CDATA[<p>So a few days ago I manned up and decided to finally write <a href="http://github.com/pote/planet.rb">planet.rb</a>, mainly because I need to have a way of merging several blogs into one in a tidy way.  This evening (while on a furious caffeine high) I thought of a slightly different application for the gem.</p>
-
-
-
-
-<h2>Octopress is awesome, and you should use it.</h2>
-
-
-
-
-<p>In the last few weeks I&#8217;ve been using <a href="http://octopress.org">Octopress</a> a lot, its a fully customizable blogging engine that just gives you controll of everything. It&#8217;s also powered by the mighty <a href="http://jekyllrb.com">Jekyll</a>, the gem that is also responsible for <a href="http://pages.github.com/">github pages</a>.</p>
-
-
-
-
-<p>The process to set up Octopress is simple, and described perfectly in it&#8217;s <a href="http://octopress.org/docs/">documentation</a>, you basically install a few dependencies, clone the repository, and you are ready to start writing blog posts and deploy your blog to <a href="http://github.com">github</a> or via rsync to a private vps.</p>
-
-
-
-
-<h2>That is kinda neat, but I&#8217;m using { wordpress || blogger || whatever }</h2>
-
-
-
-
-<p>Exactly, and you really shouldn&#8217;t, that&#8217;s where <a href="http://github.com/pote/planet.rb">planet.rb</a> comes into play.</p>
-
-
-
-
-<h2>Import your blog using its RSS/Atom feed</h2>
-
-
-
-
-<p>Once you have followed the <a href="http://octopress.org/docs/">Octopress Docs</a> to the point where you already have a cloned empty blog, simply install planet.rb with <pre> gem install planet </pre> and run the following commands on the Octopress root directory.</p>
-
-
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>▸ planet init
-</span><span class='line'>=&gt; Created default planet.yml</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<p>You will want to open the <strong>planet.yml</strong> file and put only your blog feed (as an example, the feed for this blog is <a href="http://blog.poteland.com/atom.xml">http://blog.poteland.com/atom.xml</a>) and your name as author, you can just put an empty string (&#8221;) for your picture, as we won&#8217;t be using that.</p>
-
-
-
-
-<p>We will also need to empty the author.html template file so that it doesn&#8217;t put up an unnecessary picture of you. Do it with this command</p>
-
-
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>▸ &gt; source/_layouts/author.html</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>▸ planet generate</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<p>That&#8217;s it! planet.rb will pick up your blog, process the posts and save them in Octopress&#8217;s source/_posts/ directory. After that continue with the Octopress setup guide, with all your posts already on it. Congratulations on joining the Octopress community! :)</p>
-
-
-
-
-<div class="author">
-  <img src="http://poteland.com/images/avatars/red_mage.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/poteland">Pablo Astigarraga</a> - check out <a href="http://blog.poteland.com/">This is where I tell you stuff</a></i>
-  </span>
-</div>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mozilla Developer Network Hack Day Montevideo 2012]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/04/19/mozilla-developer-network-hack-day-montevideo-2012/"/>
-    <updated>2012-04-19T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/04/19/mozilla-developer-network-hack-day-montevideo-2012</id>
-    <content type="html"><![CDATA[<p>The Mozillians are visiting Latin America as part of their <a href="http://hacks.mozilla.org/2012/04/mozilla-hack-day-on-tour-heading-south/">MDN Spring Tour</a>. On Tuesday, April 24th, they&#8217;ll be offering a developr evening in <a href="http://g.co/maps/h9gnj">Café la diaria</a>. The event is sponsored by Mozilla, Cubox, La Diaria and BlueVia.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/mozilla-event.jpg" title="Mozilla Developer Network Hack Day Montevideo 2012" ></p>
-
-
-
-
-<p>Two of our Cuboxers will be giving talks this day: <strong><a href="http://mcdlr.com">Nicolas Barrera</a></strong> - <em>Responsive Web Design</em> and <strong><a href="http://picandocodigo.net">Fernando Briano</a></strong> - <em>Social Change through the web</em>.</p>
-
-
-
-
-<p>Here&#8217;s the complete agenda for the event:</p>
-
-
-
-
-<ul>
-<li>17:30: doors open, lightning talk sign-up opens</li>
-<li>18:15: Introductory remarks</li>
-<li>18:30: How to make passwords on your site a thing of the past - Dan Mills <a href="http://twitter.com/@thunder">@thunder</a></li>
-<li>19:00: Going Social - new Social APIs in the browser Shane Caraveo <a href="http://twitter.com/@mixedpuppy">@mixedpuppy</a></li>
-<li>19:30: BlueVia developers program: platform and initiatives - Andres Leonardo Martinez Ortiz <a href="http://twitter.com/@davilagrau">@davilagrau</a></li>
-<li>20:00: Responsive Web Design - Nicolas Barrera <a href="http://twitter.com/@DrummerHead">@DrummerHead</a></li>
-<li>20:30: break</li>
-<li>20:45: lightning talks</li>
-<li>21:00: Social Change through the web - Fernando Briano <a href="http://twitter.com/@picandocodigo">@picandocodigo</a></li>
-<li>21:30: JavaScript APIs - The web is the platform - Robert Nyman <a href="http://twitter.com/@robertnyman">@robertnyman</a></li>
-<li>22:00: closing remarks, prizes, beer plan</li>
-</ul>
-
-
-
-
-<p>You can register to this event for free by following <a href="https://eventioz.com/events/mdn-hack-day-montevideo-developer-evening">this link</a>.</p>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dependency Hell]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/04/15/dependency-hell/"/>
-    <updated>2012-04-15T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/04/15/dependency-hell</id>
-    <content type="html"><![CDATA[<p>The recent wave of hate about Go&#8217;s dependencies management and subsequent wave of ideas on
-how to &#8220;fix&#8221; it, i.a. <a href="https://github.com/kr/goven">goven by Keith Rarick</a> and
-<a href="http://groups.google.com/group/golang-nuts/browse_thread/thread/d1abee8965114909/b48d73c43943b9bc">this thread</a>
-on the go-nuts mailing list pushed me to some thoughts. In this post we
-will take a closer look at the <em>problem</em> so many people found in Go
-and possible solutions for it.</p>
-
-
-
-
-<h3 id="The+problem(?)">The problem(?)</h3>
-
-
-
-
-<p>First of all&#8230; what&#8217;s the problem? That evil thing, shouted loudly by
-everyone is that the current way of dependency management does <strong>not protect</strong>
-them against bugs and changes in external packages. Some external
-dependency may change and break our code in the future or break our
-production environment!</p>
-
-
-
-
-<div class="meme">
-  <img src="http://areyoufuckingcoding.me/img/meme-omg.jpg" alt="OMG">
-</div>
-
-
-
-
-<p>Hmm, is that actually the problem? IMHO that&#8217;s not the real problem but
-just the effect of another, separate problem. Namely: misunderstanding of versioning
-and dependencies recognition. So, let&#8217;s clarify some things, and
-let&#8217;s do it from very very beginning&#8230;</p>
-
-
-
-
-<p>So, what&#8217;s <strong>software versioning</strong>? Or more explicitly, why do we need
-software versioning? Speaking shortly, <strong>software versioning is the way
-to distinguish changes in the code</strong>. The main job of versioning is to
-tell developers what has changed between the different versions. It also
-serves users by telling them  whether their software is stable or not, or to
-make the bug reporting process easier and more accurate.</p>
-
-
-
-
-<p>Now, what&#8217;s the <strong>dependency</strong>? Dependency my friends is <strong>someone elses&#8217;s
-piece of crap without which your piece of crap doesn&#8217;t work</strong>.</p>
-
-
-
-
-<h3 id="Versioning+vs.+dependencies+resolving">Versioning vs. dependencies resolving</h3>
-
-
-
-
-<p>Now, some homework for you guys&#8230; Find a reasonable relationship between
-software versioning and dependencies resolving.</p>
-
-
-
-
-<p>Speaking for myself, I found none. Because there are no relationships
-between them. Software versioning and dependencies resolving are totally
-different things. Now I can already hear you guys screaming:</p>
-
-
-
-
-<blockquote>
-  So how can I specify on which version of the software my code depends?
-</blockquote>
-
-
-
-
-<p>And here we are: <strong>You don&#8217;t have to know that</strong>! Let me put it
-this way: your code depends on packages <em>X</em> and <em>Y</em>. Now, package
-<em>Y</em> also depends on package <em>X</em>. If you make both dependencies
-fixed on an explicit version (or range of versions) then you may cause
-<strong>dependency hell</strong> between those packages or get blocked in
-the future. For example you may not be able update <em>Y</em> without
-updating <em>X</em>.</p>
-
-
-
-
-<p>Once again, this is not the problem, only a side effect of using versions
-in deps resolving. Of course, instead of eliminating the source of the
-problem many people try to make the effect less painful - like the
-Bundler gem in ruby or some super smart package managers. <strong>But you don&#8217;t
-need that</strong>. In case of dependency management you <strong>should depend
-on the major version exclsively</strong> - moreover, you should consider
-different major versions as <strong>different packages</strong> (eg. <em>foo-1.0</em>
-and <em>foo-2.0</em> should be treated as different package with no relation
-whatsoever between them, more explicitly <em>foo1</em> != <em>foo2</em>).</p>
-
-
-
-
-<p>There&#8217;s also very important thing all the maintainers should know:
-<strong>There should be no API changes between minor version changes and patch releases, motherfuckers!</strong>.</p>
-
-
-
-
-<div class="meme">
-  <img src="http://areyoufuckingcoding.me/img/meme-bugs-1.jpg" alt="Bugs, bugs, buuugs!">
-</div>
-
-
-
-
-<p>Yeah, but even if you follow the rules and you don&#8217;t change the API
-between minor versions other problems or bugs might still pop up,
-nobody&#8217;s perfect. What then?</p>
-
-
-
-
-<p>The simplest solution is to just downgrade the package to the first
-working version and report the bug, including infromation like from which
-version you have being forced to downgrad and which one solved the problem.
-<strong>This is the moment when versioning is usefull</strong>. This is also how
-software improves and gets rid of bugs :P.</p>
-
-
-
-
-<p>Anyway, now we&#8217;re finally comming back to the big <em>&#8220;problem&#8221;</em> that everybody seems to be whining about&#8230;</p>
-
-
-
-
-<h3 id="I+can't+deploy+shit!">I can&#8217;t deploy shit!</h3>
-
-
-
-
-<p>Now, again, I can just hear a bunch of pepole screaming:</p>
-
-
-
-
-<blockquote>
-  Are you fucking insane? I want to do a one click deploy without dealing
-  with packages on the production server.
-</blockquote>
-
-
-
-
-<p>It&#8217;s reasonable that you want to make deploys fast and safe. But why do you
-want to deal with those packages anyway? There&#8217;s one thing I can&#8217;t
-understand at all: why the hell do you treat dependencies as a separate part of
-the software!? If you work on production-ready applications, you should
-not care about dependency management. Without this external piece of
-crap your crap doesn&#8217;t work&#8230; more explicitly: this external crap
-is part of your crap now. Instead of specifying a bunch of fixed dependencies
-in a text file or complaining about the dependecy management in Go
-just add this external stuff to your repository and <strong>keep it together</strong>.</p>
-
-
-
-
-<p>Having all the dependencies versioned in your project&#8217;s repository
-relieves you from having to care about the installation of dependencies in the production
-environment - <strong>because you&#8217;re deploying the whole env</strong>. You also have
-full flexibility to deal with the upgrading and downgrading of those
-dependencies. If you use <code>git</code> then you can use <strong>submodules</strong>. If the
-dependencies are versioned with <code>hg</code> then you can keep mercurial information
-there and have access to the repo. You can also apply <strong>monkey patches
-or bugfixes directly in your environment</strong>. Finally, you can keep
-<strong>different versions of the packages for different projects</strong>.</p>
-
-
-
-
-<h3 id="Go+approach">Go approach</h3>
-
-
-
-
-<p>I hope that after the following examples the approach that spawned so many
-controversies will finally be considered as a great feature, not a
-problem. For those who don&#8217;t know how it works: Go&#8217;s import path is
-3 in one - it shows from where to download the external package, where to install
-it and later load it from at compile time, and what import name you should
-use in your code:</p>
-
-
-
-
-<pre><code class="language-go"><span class="k">import</span> <span class="s">"github.com/nu7hatch/gouuid"</span></code></pre>
-
-
-
-
-<p>The convention is simple to implement and really powerful, but needs a
-pivot in your programmer&#8217;s mindset. I also agree that it requires a few
-tweaks to make it work in a handy way.</p>
-
-
-
-
-<h3 id="Tweaking!">Tweaking!</h3>
-
-
-
-
-<p>To make it work as expected first we should describe exactly what we
-want to achieve. I want to tweak the Go tool in a way which will meet the
-following requirements:</p>
-
-
-
-
-<ol>
-<li>I don&#8217;t want to change the code I wrote so far (no difference in import paths).</li>
-<li>I want to keep tracking dependencies (be able to update/downgrade versions).</li>
-<li>I want to be able to monkey patch or bugfix directly into the package.</li>
-<li>I want to deploy code safely with a single command (safely = with the same effect
-in production as in development).</li>
-<li>I want to set a project up on a different machine with one command
-(eg. to bootstrap another copy for some other developer).</li>
-<li>Deployment should not be dependent on any external resources or repositories.</li>
-</ol>
-
-
-
-
-<p>The first point is obvious so we&#8217;ll just skip it. The second one - I want to track
-dependencies, which means I don&#8217;t want to vendor them like <code>goven</code>
-does. Point three affects the previous one as well - I want to keep track
-of the external package and at the same time I want to be able to fix
-it or change it. The remaining points are also obvious - we want to deploy or
-setup our project as fast as possible - preferably with one command.</p>
-
-
-
-
-<p>How do we implement something like this in real life? The first thing that came to
-my mind was the <code>GOPATH</code> behaviour. I didn&#8217;t feel like it is really needed and I
-had right, it&#8217;s not needed at all. Instead of specifying <code>GOPATH</code> or dealing with
-it for different environments we can just add something unique which will allow
-<code>go</code> tool to say <em>woot! we&#8217;re under gopath, let&#8217;s use local stuff now!</em>. It may be done
-in the same way version control systems work - eg. by adding an empty <code>.go</code>
-file to our environment:</p>
-
-
-
-
-<pre><code>myappenv/
-  .go
-  bin/
-  pkg/
-  src/
-</code></pre>
-
-
-
-
-<p>The implementation is very simple. I just patched the <code>src/pkg/go/build.go</code> file
-with this code:</p>
-
-
-
-
-<pre><code class="language-go"><span class="k">func</span> <span class="n">discoverLocalGOPATH</span><span class="p">()</span> <span class="p">(</span><span class="n">gopath</span> <span class="nb">string</span><span class="p">,</span> <span class="n">ok</span> <span class="n">bool</span><span class="p">)</span> <span class="p">{</span>
-        <span class="k">var</span> <span class="n">pwd</span><span class="p">,</span> <span class="n">dotgo</span> <span class="nb">string</span>
-        <span class="k">var</span> <span class="n">err</span> <span class="n">error</span>
-
-        <span class="k">if</span> <span class="n">pwd</span><span class="p">,</span> <span class="n">err</span> <span class="p">=</span> <span class="n">os</span><span class="p">.</span><span class="n">Getwd</span><span class="p">();</span> <span class="n">err</span> <span class="p">!=</span> <span class="n">nil</span> <span class="p">{</span>
-                <span class="k">return</span>
-        <span class="p">}</span>
-        <span class="k">for</span> <span class="p">;</span> <span class="n">pwd</span> <span class="p">!=</span> <span class="s">"/"</span><span class="p">;</span> <span class="n">pwd</span> <span class="p">=</span> <span class="n">pathpkg</span><span class="p">.</span><span class="n">Dir</span><span class="p">(</span><span class="n">pwd</span><span class="p">)</span> <span class="p">{</span>
-                <span class="n">dotgo</span> <span class="p">=</span> <span class="n">pathpkg</span><span class="p">.</span><span class="n">Join</span><span class="p">(</span><span class="n">pwd</span><span class="p">,</span> <span class="s">".go"</span><span class="p">)</span>
-                <span class="k">if</span> <span class="n">_</span><span class="p">,</span> <span class="n">err</span> <span class="p">=</span> <span class="n">os</span><span class="p">.</span><span class="n">Stat</span><span class="p">(</span><span class="n">dotgo</span><span class="p">);</span> <span class="n">err</span> <span class="p">==</span> <span class="n">nil</span> <span class="p">{</span>
-                        <span class="n">gopath</span><span class="p">,</span> <span class="n">ok</span> <span class="p">=</span> <span class="n">pwd</span><span class="p">,</span> <span class="n">true</span>
-                        <span class="k">return</span>
-                <span class="p">}</span>
-        <span class="p">}</span>
-        <span class="k">return</span>
-<span class="p">}</span>
-
-<span class="k">func</span> <span class="n">defaultContext</span><span class="p">()</span> <span class="n">Context</span> <span class="p">{</span>
-        <span class="k">var</span> <span class="n">c</span> <span class="n">Context</span>
-
-        <span class="n">c</span><span class="p">.</span><span class="n">GOARCH</span> <span class="p">=</span> <span class="n">envOr</span><span class="p">(</span><span class="s">"GOARCH"</span><span class="p">,</span> <span class="n">runtime</span><span class="p">.</span><span class="n">GOARCH</span><span class="p">)</span>
-        <span class="n">c</span><span class="p">.</span><span class="n">GOOS</span> <span class="p">=</span> <span class="n">envOr</span><span class="p">(</span><span class="s">"GOOS"</span><span class="p">,</span> <span class="n">runtime</span><span class="p">.</span><span class="n">GOOS</span><span class="p">)</span>
-        <span class="n">c</span><span class="p">.</span><span class="n">GOROOT</span> <span class="p">=</span> <span class="n">runtime</span><span class="p">.</span><span class="n">GOROOT</span><span class="p">()</span>
-        <span class="n">c</span><span class="p">.</span><span class="n">GOPATH</span> <span class="p">=</span> <span class="n">envOr</span><span class="p">(</span><span class="s">"GOPATH"</span><span class="p">,</span> <span class="s">""</span><span class="p">)</span>
-
-        <span class="c1">// We have to prepend a local GOPATH if we find an `.go` file</span>
-        <span class="c1">// in one of the parent locations of current directory.</span>
-        <span class="k">if</span> <span class="n">localGOPATH</span><span class="p">,</span> <span class="n">ok</span> <span class="p">:=</span> <span class="n">discoverLocalGOPATH</span><span class="p">();</span> <span class="n">ok</span> <span class="p">{</span>
-                <span class="n">c</span><span class="p">.</span><span class="n">GOPATH</span> <span class="p">=</span> <span class="n">localGOPATH</span> <span class="p">+</span> <span class="s">":"</span> <span class="p">+</span> <span class="n">c</span><span class="p">.</span><span class="n">GOPATH</span>
-        <span class="p">}</span>
-
-        <span class="c1">// *snip*</span></code></pre>
-
-
-
-
-<p>That&#8217;s how we get rid of the annoying <code>GOPATH</code>, or actually make it more
-useful and intuitive - different environments with no configuration at
-all. The local env is recognized by its <code>.go</code> file and the path to this directory
-will be prepended to <code>GOPATH</code>.</p>
-
-
-
-
-<p>Now the hardest part - dependnecy tracking. Lets say our application
-is <code>myappenv/src/acme.com/foobar</code> and depends on a few other packages.
-Instead of versioning this application only and looking for the way
-to track dependencies, let&#8217;s version <code>~/myappenv</code> directly. Lets do it
-with git as an example:</p>
-
-
-
-
-<pre><code>$ cd ~/myappenv
-$ git init
-</code></pre>
-
-
-
-
-<p>If we depend on mercurial based projects, then it&#8217;s easy - just add them
-to the repo with all the <code>hg</code> files. If we have git based dependencies
-then it&#8217;s more tricky, because git doesn&#8217;t allow the tracking of nested repositories
-without using submodules. It forces us to patch one more thing out there.
-This time in the <code>src/cmd/go/vcs.go</code> file:</p>
-
-
-
-
-<pre><code class="language-go"><span class="c1">// first we have to add submoduleCmd to vcs configurations:</span>
-<span class="k">var</span> <span class="n">vcsGit</span> <span class="p">=</span> <span class="p">&amp;</span><span class="n">vcsCmd</span><span class="p">{</span>
-       <span class="c1">// *snip*</span>
-       <span class="n">submoduleCmd</span><span class="p">:</span> <span class="s">"submodule add {repo} {dir}"</span><span class="p">,</span>
-       <span class="c1">// *snip*</span>
-<span class="p">}</span>
-
-<span class="c1">// ... Now we have to extend create function:</span>
-
-<span class="k">func</span> <span class="p">(</span><span class="n">v</span> <span class="p">*</span><span class="n">vcsCmd</span><span class="p">)</span> <span class="n">create</span><span class="p">(</span><span class="n">dir</span><span class="p">,</span> <span class="n">repo</span> <span class="nb">string</span><span class="p">)</span> <span class="n">error</span> <span class="p">{</span>
-        <span class="n">rootV</span><span class="p">,</span> <span class="n">root</span><span class="p">,</span> <span class="n">ok</span> <span class="p">:=</span> <span class="n">vcsForLocalRoot</span><span class="p">(</span><span class="n">v</span><span class="p">)</span>
-        <span class="k">if</span> <span class="n">ok</span> <span class="p">{</span>
-                <span class="n">dir</span> <span class="p">=</span> <span class="n">strings</span><span class="p">.</span><span class="n">TrimLeft</span><span class="p">(</span><span class="n">strings</span><span class="p">.</span><span class="n">TrimLeft</span><span class="p">(</span><span class="n">dir</span><span class="p">,</span> <span class="n">root</span><span class="p">),</span> <span class="s">"/"</span><span class="p">)</span>
-                <span class="k">return</span> <span class="n">rootV</span><span class="p">.</span><span class="n">run</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">rootV</span><span class="p">.</span><span class="n">submoduleCmd</span><span class="p">,</span> <span class="s">"dir"</span><span class="p">,</span> <span class="n">dir</span><span class="p">,</span> <span class="s">"repo"</span><span class="p">,</span> <span class="n">repo</span><span class="p">)</span>
-        <span class="p">}</span>
-        <span class="k">return</span> <span class="n">v</span><span class="p">.</span><span class="n">run</span><span class="p">(</span><span class="s">"."</span><span class="p">,</span> <span class="n">v</span><span class="p">.</span><span class="n">createCmd</span><span class="p">,</span> <span class="s">"dir"</span><span class="p">,</span> <span class="n">dir</span><span class="p">,</span> <span class="s">"repo"</span><span class="p">,</span> <span class="n">repo</span><span class="p">)</span>
-<span class="p">}</span></code></pre>
-
-
-
-
-<p>To avoid overhead of code I can just tell you that <code>vcsForLocalRoot</code> func
-checks if we&#8217;re in a local env, if so it checks if it&#8217;s versioned with
-the same version control system as our dependency, and if so it adds that
-dependency as a submodule instead of cloning it directly. Everything else
-remains the same. <a href="http://code.google.com/r/chris-go/source/checkout">You can get the patched version and try it out</a>.</p>
-
-
-
-
-<p>How do we use it now? Very simple - first of all throw your <code>GOPATH</code> configuration
-away, you don&#8217;t need it anymore. There&#8217;s one more new feature added there,
-the <code>init</code> command:</p>
-
-
-
-
-<pre><code>$ go init ~/myappenv
-</code></pre>
-
-
-
-
-<p>You can also specify which version control system you want to use:</p>
-
-
-
-
-<pre><code>$ go init -c hg ~/myappenv
-</code></pre>
-
-
-
-
-<p>This command will create the environment structure in a specified directory
-(the directory doesn&#8217;t need to exist). I&#8217;m a lazy bastard, I didn&#8217;t add a
-few things there yet, i.a you have to create the ignore file on your own,
-it should contain:</p>
-
-
-
-
-<pre><code>/bin/*
-/pkg/*
-</code></pre>
-
-
-
-
-<p>You also have to make initial commit manually, eg:</p>
-
-
-
-
-<pre><code>$ git add . &amp;&amp; git commit -m "hello go"
-</code></pre>
-
-
-
-
-<p>When you write some code and want to download dependencies, just run
-<code>go get</code> as usual. Remember that you have to commit changes after
-dependnecies are installed:</p>
-
-
-
-
-<pre><code>$ cd ~/myappenv
-$ go get ./...
-$ git add . &amp;&amp; git commit -m "added X and Y deps"
-</code></pre>
-
-
-
-
-<h3 id="Bootstrap,+deploy...">Bootstrap, deploy&#8230;</h3>
-
-
-
-
-<p>Using this approach you have the whole environment necessary to run
-your application in one place, safely versioned in your application&#8217;s
-repository. You can deploy or boostrap this application quickly and
-in 2 steps.</p>
-
-
-
-
-<pre><code>$ git clone git@acme.com:myappenv.git
-$ cd ~/myappenv
-$ git submodule init &amp;&amp; git submodule update
-</code></pre>
-
-
-
-
-<p>We can definitely call it a one click deploy :P. What&#8217;s more important,
-the deploy doesn&#8217;t depend on any external sources, everything&#8217;s bundled
-there with your project. We also have full control over each part of
-the system - each dependency can be separately updated, changed or
-patched. You can even replace the repository source with your monkey patched
-fork without affecting the import paths in your sources!</p>
-
-
-
-
-<div class="meme">
-  <img src="http://areyoufuckingcoding.me/img/meme-marvelous-1.jpg" alt="Marvelous!">
-</div>
-
-
-
-
-<h3 id="Summary">Summary</h3>
-
-
-
-
-<p>I&#8217;m curious about your oppinions and feedback about the stuff I wrote. From the short
-reaserch I&#8217;ve been doing everyone appears to love getting rid of <code>GOPATH</code> in favor
-of local environments. A few persons I asked around are still confused about
-dealing with submodules - to be honest I&#8217;m not 100% convinced to this
-approach yet, but so far it&#8217;s the best I&#8217;ve found and matches the requirements
-I wrote down. I&#8217;m sure we can improve that part together. That&#8217;s all folks,
-waiting for your comments.</p>
-
-
-
-
-<p>Like always thanks to <a href="http://twitter.com/poteland">pote</a> for reviewing
-my ugly english.</p>
-
-
-
-
-<div class="author">
-  <img src="https://twimg0-a.akamaihd.net/profile_images/1964798229/awesome2.jpg" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/nu7hatch">Krzysiek Kowalik</a> - check out <a href="http://areyoufuckingcoding.me">Are You Fucking Coding Me!?</a></i>
-  </span>
-</div>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[I Made a Pretty Gem - Planet.rb]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/04/14/i-made-a-pretty-gem-planet-rb/"/>
-    <updated>2012-04-14T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/04/14/i-made-a-pretty-gem-planet-rb</id>
-    <content type="html"><![CDATA[<p>I&#8217;ve been hurting to write this ever since we had the idea of creating a Planet for <a href="http://cuboxlabs.com">Cubox</a>, a planet is - for those who have never heard the term - a static site
-generated from all the posts in a given set of blogs, it&#8217;s pretty awesome, it allows organizations to have a place with all their coder&#8217;s posts on them without having to duplicate each post
-on both the company blog and the coder&#8217;s.</p>
-
-
-
-
-<h2><strong>Update</strong></h2>
-
-
-
-
-<p>Since I published this I&#8217;ve been working like crazy on it, and some of this documentation might be outdated, please check <a href="http://github.com/pote/planet.rb">the github repo</a> for the latest available documentation. :)</p>
-
-
-
-
-<h2>Wasn&#8217;t this invented like a million years ago?</h2>
-
-
-
-
-<p>Yes, yes it was, this is nothing new, important examples of this concept can bee seen at <a href="http://planet.gnome.org/">Gnome</a> and <a href="http://planetkde.org/">KDE</a> planets, so I figured that there would already be solid technology behind this. I set out to get that code and implement it on our own shiny and geeky planet.</p>
-
-
-
-
-<p>And then I saw the code.</p>
-
-
-
-
-<p>I imagine both Gnome and KDA have moved on on their planet&#8217;s code, but I wasn&#8217;t able to find anything newer than <a href="http://www.planetplanet.org/">planetplanet.org</a>&#8217;s implementation. A codebase that hasn&#8217;t been touched for years (it requires python 2.2 for christ sake!!!)</p>
-
-
-
-
-<p>I set out to patch the code to our needs, I created a github repo for planetplanet&#8217;s codebase and started working into adding some features, however I quickly found that it&#8217;s templating capabilities where horribly outdated, and frankly&#8230; well unusable, I love python, but I wanted to stab myself in the eye with the nearest fork while working with it, and it&#8217;s been theorized that eye stabbing is generally not good for your health, so I decided to rewrite the damn thing.</p>
-
-
-
-
-<h2>Shut up already! Show me this marvelous code you are giving me for free!</h2>
-
-
-
-
-<p>Allright, allright, shutting up now. Let&#8217;s assume that we have a shiny <a href="http://octopress.org">Octopress</a> blog that we want to turn into a planet. This is what we will do.</p>
-
-
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>▸ ls
-</span><span class='line'>CHANGELOG.markdown README.markdown    config.rb          public
-</span><span class='line'>Gemfile            Rakefile           config.ru          sass
-</span><span class='line'>Gemfile.lock       _config.yml        plugins            source</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<p>Install the planet.rb gem</p>
-
-
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>▸ gem install planet
-</span><span class='line'>Successfully installed planet-0.0.1
-</span><span class='line'>1 gem installed
-</span><span class='line'>Installing ri documentation for planet-0.0.1...
-</span><span class='line'>Installing RDoc documentation for planet-0.0.1...</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<p>We want to go to the source directory and then create a basic planet.yml file that will contain your list of blogs</p>
-
-
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>▸ cd source
-</span><span class='line'>▸ planet init
-</span><span class='line'>=&gt; created default planet.yml</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<p>You will most likely want to edit this yml file (unless you really really like me and Cubox!), after you are done, run the generate command.</p>
-
-
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>▸ planet generate
-</span><span class='line'>=&gt; parsing http://blog.poteland.com/atom.xml
-</span><span class='line'>=&gt; parsing http://blog.cuboxlabs.com/atom.xml
-</span><span class='line'>=&gt; Found post titled Cubox brings back Ruby meetups to Montevideo - by Cubox
-</span><span class='line'>=&gt; Found post titled We're hiring - by Cubox
-</span><span class='line'>=&gt; Found post titled rubydeps - New gem by Cuboxer - by Cubox
-</span><span class='line'>=&gt; Found post titled Cuboxers at wroc_love.rb in Poland - by Cubox
-</span><span class='line'>=&gt; Found post titled Open Source Projects - by Cubox
-</span><span class='line'>=&gt; Found post titled Machine learning in perspective - by Cubox
-</span><span class='line'>=&gt; Found post titled Cubox on finances - by Cubox
-</span><span class='line'>=&gt; Found post titled So what is Uruguay like? - by Cubox
-</span><span class='line'>=&gt; Found post titled Supporting this weekend's Rails Bugmash - by Cubox
-</span><span class='line'>=&gt; Found post titled One App in the App Store - by Cubox
-</span><span class='line'>=&gt; Found post titled A new website - by Cubox
-</span><span class='line'>=&gt; Found post titled Google Chrome OS: Obvious to the point of being boring. - by Cubox
-</span><span class='line'>=&gt; Writing 12 posts to the _posts directory</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<p>And that&#8217;s it! your _posts directory should be populated with all relevant posts from the blogs you&#8217;ve configured, and it&#8217;s ready to be deployed. :)</p>
-
-
-
-
-<h2>Where&#8217;s the code? Can I break it?</h2>
-
-
-
-
-<p>By all means! The code is public and lives on it&#8217;s <a href="https://github.com/pote/planet.rb">github repo</a>, suggestions (and better yet, patches!) are more than welcome!</p>
-
-
-
-
-<h2>A quick note about Jekyll.</h2>
-
-
-
-
-<p><a href="http://jekyllrb.com/">Jekyll</a> is awesome, and planet.rb can be easily used with it too, but I tend to favor Octopress as a simple-setup superset of Jekyll. Also, if you are using it, you probably don&#8217;t need my help to set your Jekyll planet up ;)</p>
-
-
-
-
-<div class="author">
-  <img src="http://poteland.com/images/avatars/red_mage.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/poteland">Pablo Astigarraga</a> - check out <a href="http://blog.poteland.com/">This is where I tell you stuff</a></i>
-  </span>
-</div>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cubox Brings Back Ruby Meetups to Montevideo]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/04/11/cubox-brings-back-ruby-meetups-to-montevideo/"/>
-    <updated>2012-04-11T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/04/11/cubox-brings-back-ruby-meetups-to-montevideo</id>
-    <content type="html"><![CDATA[<p>Last Tuesday Cubox hosted a new Ruby Meetup in Montevideo. 29 developers from the local community registered to <a href="http://www.meetup.com/rubymvd/events/58942322/">the meetup</a>. The invitation was open for developers of all technologies, and any knowledge level.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/ruby-meetup-01.jpg" title="Ruby Meetup" ></p>
-
-
-
-
-<p>We kicked off the meeting with a talk about <a href="http://soveran.github.com/cuba/">Cuba</a> the Ruby microframework for web development by <a href="http://elcuervo.co/">Bruno Aguirre</a>. He presented it as a minimal toolkit for web development from ground up.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/ruby-meetup-02.jpg" title="Ruby Meetup" ></p>
-
-
-
-
-<p>After the presentation, we had some pizza, sodas and beer. We shared lots of interesting conversations and met new faces from the community.</p>
-
-
-
-
-<p>The Ruby meetups will be hosted every second Tuesday of the month. Companies are invited to sponsor future meetups by providing their offices or buying pizza and beer for the assistants. <a href="http://cuboxlabs.com/contact/">Contact us</a> if you&#8217;re interested.</p>
-
-
-
-
-<p>We invite you to register at the <a href="http://www.meetup.com/rubymvd/">Ruby Meetup</a> page and attend these events, come share some knowledge, learn about Ruby and get to know what other developers are working on.</p>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[We&#39;re Hiring]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/03/29/we-re-hiring/"/>
-    <updated>2012-03-29T00:00:00+02:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/03/29/we-re-hiring</id>
-    <content type="html"><![CDATA[<p>We are looking for developers and web designers to join our <a href="http://cuboxlabs.com/people/">great team</a>. We value passion for the craft, open source contributions and teamwork. We embrace agile methodologies, test driven development and shipping value to our clients.</p>
-
-
-
-
-<p><img class="center" src="http://blog.cuboxlabs.com/images/cubox-fridays.jpg" title="Cuboxers" >
-Photo by: <a href="http://www.flickr.com/photos/foca/">Nicolas Sanguinetti</a></p>
-
-
-
-
-<p>At Cubox, you can work on Open Source projects such as some of the examples <a href="http://cuboxlabs.com/quality/">here</a> or come up with your own. We have TechLunch and Code Review lunches weekly to keep us all in the loop of what we&#8217;re working at, and learn new stuff together. There&#8217;s also a ping pong table, free snacks, etc.</p>
-
-
-
-
-<p>If you&#8217;re interested, check out <a href="http://cuboxlabs.com/people/work-with-us/">this page</a> to learn more and <a href="http://cuboxlabs.com/contact/">contact us</a>.</p>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nothing Really Matters]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/03/24/nothing-really-matters/"/>
-    <updated>2012-03-24T00:00:00+01:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/03/24/nothing-really-matters</id>
-    <content type="html"><![CDATA[<p>It&#8217;s been over a year since I joined <a href="http://cuboxlabs.com/">Cubox</a>. In the last
-few days, visiting my motherland and participating in the amazing
-<a href="http://wrocloverb.com">wroc_love.rb conference</a> led me to several reflections.
-The fun is that all my technical and non-technical reflections
-started joining together and clarifying my hacker&#8217;s mindset.</p>
-
-
-
-
-<p>These reflections were also heaviliy inspired by many people, i.a. drunk
-<a href="http://twitter.com/apotonick">apotonick</a> repeating all the time that
-<strong>Nothing really matters</strong> :). Let me tell you how true this sentence is
-in the case of your business, code and even life.</p>
-
-
-
-
-<h3 id="To+hack+or+not+to+hack?">To hack or not to hack?</h3>
-
-
-
-
-<p>I joined Cubox as a hacker, geek and crazy optimization monster, doing
-a lot of cool stuff, tweaking things up, learning and enjoying the code.
-This blog post will be a retrospection of all the things I screwed up and
-the cool things I figured out during 2011. All the things about
-designing applications, about building them, about choosing right tools&#8230;
-and about the business behind all of this. It will be about my metamorphosis
-from a typical optimization monster into devoted K.I.S.S. evangelist and
-lean approach enthusiast. It will also show you how I understand Lean
-Startup and how do I think lean code should look like.</p>
-
-
-
-
-<h3 id="Integration+vs.+acceptance+testing">Integration vs. acceptance testing</h3>
-
-
-
-
-<p>The first idea I was working on at the new job was a way to speed up slow Selenium
-tests. I was figuring out many weird things, from improving speed of ExtJS,
-through faster ruby driver for V8 engine and at the headless browser
-C++ library ending. Woah, that was a total failure. It was like this&#8230;</p>
-
-
-
-
-<blockquote>
-Yeah, there&#8217;s V8 engine and it&#8217;s awesome, and there&#8217;s therubyracer
-but is very slow so let&#8217;s speed it up, oh but if we use ExtJS it still
-sucks, I can write everything in C&#8230;
-</blockquote>
-
-
-
-
-<p>But meanwhile I realized something way more important: instead of speeding up
-the tool (a very complicated tool) we should speed our tests up. Besides
-<strong>the idea of running integration tests is to test if all the parts of
-a system are composed into one integral application in the production
-environment</strong>. There&#8217;s no point to test the app in some virtual environment
-which just simulates (poorly) all the others, widely used</p>
-
-
-
-
-<p>Also, I started listening to many people around, and they all said
-laudly and with confidence:</p>
-
-
-
-
-<blockquote>
-It&#8217;s Cucumber fault that our tests are slow! Cucumber is too slow!
-</blockquote>
-
-
-
-
-<p>Or others, including me:</p>
-
-
-
-
-<blockquote>
-It&#8217;s Rails fault! It&#8217;s too slow at boot so our tests are slow!
-</blockquote>
-
-
-
-
-<p>And we started using some pure RSpec tests based on Capybara, figuring out
-how to optimize Rails etc. But it was the same&#8230; Capybara, Cucumber, RSpec
-and Rails are only tools. They don&#8217;t matter, it&#8217;s <strong>only a delivery method</strong>
-for some part of our logic. <strong>The logic which supposted to be tested</strong>.</p>
-
-
-
-
-<p>A few days ago, I had a horrible hangover, drinking some <a href="https://twitter.com/#!/nu7hatch/status/179605961886015488">mate</a>
-with <a href="http://twitter.com/DrummerHead">DrummerHead</a> and reading again
-<a href="http://twitter.com/godfoca">godfoca&#8217;s</a> internal mail about the bussiness
-value of splitting stories up into tasks (maybe he will publish it, worth
-reading), juggling with some DCI papers around and listening to
-<a href="http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years">Uncle Bob Martin&#8217;s talk at Ruby Midwest</a>.</p>
-
-
-
-
-<p>Then I figured something out&#8230; Well I didn&#8217;t really, I just realized
-something. I think that the user stories heavily and laudly promoted by BDD
-and Cucumber are simply describing the wrong things. Let me put it this way:
-they test things that don&#8217;t matter at all for your business. Take a look
-at the story:</p>
-
-
-
-
-<pre><code>As a bar client
-In order to drink a beer
-I want to go to the bar
-Order a beer
-And when I pay for it with cash
-I want to see my beer on the table
-</code></pre>
-
-
-
-
-<p>Hey, guys, no offense&#8230; but that sounds retarded. Besides, that&#8217;s just
-GUI testing! Some people may want to pay for the beer with a credit card, or open
-a check and pay everything at the end. Others may want to order a beer from
-the table without going to the bar. That kind of story doesn&#8217;t test
-your business requiremenets, they don&#8217;t apply to your domain logic! Your
-<code>Client</code> domains should be:</p>
-
-
-
-
-<pre><code>- Drink a beer
-- Be able to pay with cash or by card
-- Be able to open check and pay at the end
-</code></pre>
-
-
-
-
-<p>You may notice that I don&#8217;t mention the <code>bar</code> at all, because that&#8217;s only
-our <strong>delivery method</strong>, that&#8217;s only a framework which may change in the
-future. Going to the <code>bar</code> is not <code>client</code> domain here. We may change <code>bar</code>
-into <code>delivery service</code> or <code>cute blonde waitress</code> and his domain
-doesn&#8217;t chage. He will be able to drink beer and pay for it however
-he wants. <strong>Acceptance tests are supposed to test domain logic, not
-the delivery method</strong>. The delivery method is only a tool, a plugin which
-may be replaced at any time, without affecting your business model.
-Delivery methods should be tested by an <strong>integration tool</strong> and be part
-of the <strong>continuous integration process</strong> only!</p>
-
-
-
-
-<p>Uncle Bob said something great, something I did repeat many times myself
-but that some laud Rubyists around had different oppinions on:</p>
-
-
-
-
-<blockquote>
-The suite of tests is not there to satisfy the QA groups, it
-is not there to prove to other people that our code works. The suite 
-of tests is there so that we can refactor. So that when we bring the 
-code up to our screen then we&#8217;re not afraid of it.
-</blockquote>
-
-
-
-
-<p>Think about it guys&#8230;</p>
-
-
-
-
-<h3 id="More+and+more+hammers">More and more hammers</h3>
-
-
-
-
-<p>The second thing I recently realized was how pathological the application
-design process is. Most of the projects we star from scratch start in a
-pointless discussion of which framework is better, what database
-should we use, what templating system should we apply, etc. <strong>We are
-discussing about unimportant crap</strong>!</p>
-
-
-
-
-<blockquote>
-- I bet we are gonna have a lot of writes, let&#8217;s use Cassandra! <br>
-- Bullshit, there will be lot of reads too, Redis is best for that! <br>
-- Fuck you! Let&#8217;s do something simple first and then optimize,
-  we should start with MySQL! <br>
-- I don&#8217;t want to live on this planet anymore&#8230; <br>
-</blockquote>
-
-
-
-
-<p>Maybe I am exaggerating, but there&#8217;s a lot of bootstrap conversations
-that look like this. But you know what? <strong>nothing really matters</strong>&#8230;
-Those who have seen Uncle Bob&#8217;s talk at Ruby Midwest should already
-know that databases and frameworks are <strong>only tools</strong>, all this stuff,
-all the hammers are <strong>only plugins</strong> and should be treated so.</p>
-
-
-
-
-<h3 id="Lean+hacking?">Lean hacking?</h3>
-
-
-
-
-<p>Thus, databases and frameworks are only delivery methods, we
-don&#8217;t know at the beginning of a project which one to use anyway. To be lean you
-have to deliver a minimum viable domain model to your users and learn
-from how they react. <strong>The way how you deliver your domain logic
-is not important at all</strong>.</p>
-
-
-
-
-<p>The book &#8220;The Lean Startup&#8221;  has become extremally popular recently. It has
-been especially adopted by all the Rails developers and dev shops.</p>
-
-
-
-
-<blockquote>
-Yeah, we&#8217;re fantastic because we can build a Rails app in 2 weeks
-and validate your idea!
-</blockquote>
-
-
-
-
-<p>But again, Rails is only a tool, Rails doesn&#8217;t determine the process
-of the lean product building. No tool does it! The <strong>Lean approach
-is this one which allows you to validate your domain model quickly by
-measuring reactions of the users of your product</strong>. A minimum viable
-product. If you make the validation of your domain logic (your idea) depend
-on the tool, on the framework or on the database then you&#8217;re not lean,
-you are lost in dependencies&#8217; and tools&#8217; hell every time when you
-want to change something. You are not lean, just an Agile Rails Development
-shop or any other framework hyper! <strong>Lean is about eliminating any kind
-of waste</strong>. Oh, what&#8217;s that? Aren&#8217;t all the dependencies, plugins
-and tools which affect your domain model a waste?</p>
-
-
-
-
-<h3 id="Clients+from+hell...">Clients from hell&#8230;</h3>
-
-
-
-
-<p>Yeah, but we have to do the clients work, we have to deliver things,
-we have to match their expectations, right? You know what&#8230; now
-with humongous confidence I can say NO! Clients have ideas, and want
-to realize them to check if they&#8217;re ok. <strong>But clients want the designing of
-the app to be the validation of their idea</strong> as well. Most
-developers used to say:</p>
-
-
-
-
-<blockquote>
-Oh, that client wants to do some shitty reports there. We know that&#8217;s
-shit but they want to have it, let&#8217;s do it then&#8230;
-</blockquote>
-
-
-
-
-<p>But that&#8217;s wrong! <strong>Lean consultants should help the client to find
-the best way to validate his product and eliminate waste</strong>. If you
-think that something your client wants is a piece of crap and nobody is
-going to use it <strong>say it</strong>. Insist to measure user needs. Doing
-all the features required by the client super fast doesn&#8217;t equal
-being lean. <strong>Being lean means that you are a logical filter for all
-the client&#8217;s bad ideas</strong> - this is the very first validation of his
-product.</p>
-
-
-
-
-<p>The second problem with the clients is that they used to come with something like this:</p>
-
-
-
-
-<blockquote>
-We have an idea for a <strong>Rails application</strong>.
-</blockquote>
-
-
-
-
-<p>No motherfucker! You don&#8217;t want to build a Rails app, what you want to
-build is <strong>an application</strong>. It may become a Rails app, it may become a
-Sinatra app, it may be even a console app, it doesn&#8217;t matter. As I said
-before that it is only a delivery method, and from the lean perspective
-it&#8217;s nothing else than <strong>waste</strong>. Mocks are friends of lean approach,
-<strong>mock everything you can, that&#8217;s the fastest way to see if your potential
-users are going to like it or not</strong>.</p>
-
-
-
-
-<h3 id="(C)lean+code...">(C)lean code&#8230;</h3>
-
-
-
-
-<p>You know what, let&#8217;s drink some beer now. But let&#8217;s do it in a
-different way. We are going to do it with Ruby today, sorry to all the Gophers
-reading this article. I&#8217;ll make some special episode about DDD in Go next
-time. We&#8217;re going to start writing the story and tests - that&#8217;s how
-TDD, BDD and other *DD variations works. <strong>You have to write tests first</strong>,
-otherwise you are just waisting time (eliminate waste, remember?).</p>
-
-
-
-
-<pre><code class="language-gherkin"><span class="k">Feature:</span><span class="nf"> Drinking beer</span>
-
-<span class="nf">  </span><span class="k">Scenario:</span><span class="nf"> Drink a beer</span>
-<span class="k">    When </span><span class="nf">I pick a beer</span>
-<span class="nf">    </span><span class="k">Then </span><span class="nf">I want to drink the beer I choose</span></code></pre>
-
-
-
-
-<p>Let&#8217;s say we want to have a beer drinking service:</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="no">When</span><span class="sr"> /I pick a beer/</span> <span class="k">do</span>
-  <span class="vi">@drinking</span> <span class="o">=</span> <span class="no">BeerDrinkingService</span><span class="o">.</span><span class="n">new</span>
-<span class="k">end</span>
-
-<span class="no">Then</span><span class="sr"> /I want to drink the beer I choose/</span> <span class="k">do</span>
-  <span class="vi">@drinking</span><span class="o">.</span><span class="n">call</span><span class="o">.</span><span class="n">should</span> <span class="o">==</span> <span class="s2">"Pssst! Gulp, gulp, gulp... aaaah!"</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>Now we know exactly what we want to do, we need a beer:</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="k">class</span> <span class="nc">Beer</span>
-  <span class="k">def</span> <span class="nf">drink</span>
-    <span class="s2">"Pssst! Gulp, gulp, gulp... aaaah!"</span>
-  <span class="k">end</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>&#8230; and some client who wants to drink it:</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="k">class</span> <span class="nc">Client</span>
-  <span class="k">def</span> <span class="nf">drink_a_beer</span>
-    <span class="no">Beer</span><span class="o">.</span><span class="n">new</span><span class="o">.</span><span class="n">drink</span>
-  <span class="k">end</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>Finally, we have to provide some way for the client o drink the beer
-easily, we need some <strong>interaction</strong>:</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="k">class</span> <span class="nc">BeerDrinkingService</span>
-  <span class="k">def</span> <span class="nf">initialize</span>
-    <span class="vi">@client</span> <span class="o">=</span> <span class="no">Client</span><span class="o">.</span><span class="n">new</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nf">call</span>
-    <span class="vi">@client</span><span class="o">.</span><span class="n">drink_a_beer</span>
-  <span class="k">end</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>And you know what, that&#8217;s already our minimum viable product! We have
-a client who can drink a beer, lovely! After we show it to potential clients
-they may not want to drink just some random beer. Maybe they want to select
-their favorite Scenario first:</p>
-
-
-
-
-<pre><code class="language-gherkin"><span class="k">Feature:</span><span class="nf"> Drining beer</span>
-
-<span class="nf">  </span><span class="k">Scenario:</span><span class="nf"> Drink favorite beer</span>
-<span class="k">    When </span><span class="nf">I pick my favorite "</span><span class="s">Belfast</span><span class="nf">" beer</span>
-<span class="nf">    </span><span class="k">Then </span><span class="nf">I want to drink the beer I choose</span></code></pre>
-
-
-
-
-<p>The tests may looks like this:</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="no">When</span><span class="sr"> /I pick my favorite "(.*)" beer/</span> <span class="k">do</span> <span class="o">|</span><span class="n">beer_brand</span><span class="o">|</span>
-  <span class="vi">@drinking</span> <span class="o">=</span> <span class="no">BeerDrinkingService</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="n">beer_brand</span><span class="p">)</span>
-<span class="k">end</span>
-
-<span class="no">Then</span><span class="sr"> /I want to drink the beer I choose/</span> <span class="k">do</span>
-  <span class="vi">@drinking</span><span class="o">.</span><span class="n">call</span><span class="o">.</span><span class="n">should</span> <span class="o">==</span> <span class="s2">"Pssst! Gulp, gulp, gulp... aaaah!"</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>And the code&#8230;</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="k">class</span> <span class="nc">Client</span>
-  <span class="k">def</span> <span class="nf">drink_a_beer</span><span class="p">(</span><span class="n">brand</span><span class="p">)</span>
-    <span class="no">Beer</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="n">brand</span><span class="p">)</span><span class="o">.</span><span class="n">drink</span>
-  <span class="k">end</span>
-<span class="k">end</span>
-
-<span class="k">class</span> <span class="nc">Beer</span> <span class="o">&lt;</span> <span class="no">Struct</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="ss">:brand</span><span class="p">)</span>
-  <span class="k">def</span> <span class="nf">drink</span>
-    <span class="nb">puts</span> <span class="s2">"Pssssst! Gulp, gulp, gulp... aaaah!"</span>
-  <span class="k">end</span>
-<span class="k">end</span>
-
-<span class="k">class</span> <span class="nc">BeerDrinkingService</span>
-  <span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="n">beer_brand</span><span class="p">)</span>
-    <span class="vi">@client</span> <span class="o">=</span> <span class="no">Client</span><span class="o">.</span><span class="n">new</span>
-    <span class="vi">@beer_brand</span> <span class="o">=</span> <span class="n">beer_brand</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nf">call</span>
-    <span class="vi">@client</span><span class="o">.</span><span class="n">drink_a_beer</span><span class="p">(</span><span class="n">beer_brand</span><span class="p">)</span>
-  <span class="k">end</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>Going further, now we may want to know how drunk the guy is. Maybe we
-don&#8217;t want to sell him a beer when he looks like a sack of potatoes.
-Scenarios, scenarios, scenarios:</p>
-
-
-
-
-<pre><code class="language-gherkin"><span class="k">Feature:</span><span class="nf"> Drining beer</span>
-
-<span class="nf">  </span><span class="k">Scenario:</span><span class="nf"> Drink a favorite beer</span>
-<span class="k">    When </span><span class="nf">I pick my favorite "</span><span class="s">Belfast</span><span class="nf">" beer</span>
-<span class="nf">    </span><span class="k">Then </span><span class="nf">I want to drink the beer I choose</span>
-
-<span class="nf">  </span><span class="k">Scenario:</span><span class="nf"> Getting wasted</span>
-<span class="k">    When </span><span class="nf">I drink my favorite "</span><span class="s">Belfast</span><span class="nf">" beer until I look like a sack of potaoes</span>
-<span class="nf">    </span><span class="k">Then </span><span class="nf">I should not get another beer</span></code></pre>
-
-
-
-
-<p>Tests, tests, tests!</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="no">Then</span><span class="sr"> /I want drink favorite "(.*)" beer until I get look like sack of potaoes/</span> <span class="k">do</span> <span class="o">|</span><span class="n">beer_brand</span><span class="o">|</span>
-  <span class="vi">@beer_brand</span> <span class="o">=</span> <span class="n">beer_brand</span>
-  <span class="mi">10</span><span class="o">.</span><span class="n">times</span> <span class="k">do</span>
-    <span class="n">step</span><span class="p">(</span><span class="sx">%(I pick my favorite "</span><span class="si">#{</span><span class="vi">@beer_brand</span><span class="si">}</span><span class="sx">" beer)</span><span class="p">)</span>
-    <span class="n">step</span><span class="p">(</span><span class="sx">%(I want to drink the beer I choose)</span><span class="p">)</span>
-  <span class="k">end</span>
-<span class="k">end</span>
-
-<span class="no">Then</span><span class="sr"> /I should not get another beer/</span> <span class="k">do</span>
-  <span class="n">step</span><span class="p">(</span><span class="sx">%(I pick my favorite "</span><span class="si">#{</span><span class="vi">@beer_brand</span><span class="si">}</span><span class="sx">" beer)</span><span class="p">)</span>
-  <span class="vi">@drinking</span><span class="o">.</span><span class="n">call</span><span class="o">.</span><span class="n">should</span> <span class="o">==</span> <span class="kp">false</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>And the code is growing:</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="k">class</span> <span class="nc">Client</span> <span class="o">&lt;</span> <span class="no">Struct</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="ss">:drunkness</span><span class="p">)</span>
-  <span class="k">def</span> <span class="nf">drink_a_beer</span><span class="p">(</span><span class="n">brand</span><span class="p">)</span>
-    <span class="nb">self</span><span class="o">.</span><span class="n">drunkenness</span> <span class="o">+=</span> <span class="mi">1</span>
-    <span class="no">Beer</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="n">brand</span><span class="p">)</span><span class="o">.</span><span class="n">drink</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nf">drunkness</span>
-    <span class="vi">@drunkness</span> <span class="o">||=</span> <span class="mi">0</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nf">waisted?</span>
-    <span class="nb">self</span><span class="o">.</span><span class="n">drunkenness</span> <span class="o">&gt;</span> <span class="mi">6</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nf">sack_of_potatoes?</span>
-    <span class="nb">self</span><span class="o">.</span><span class="n">drunknness</span> <span class="o">&gt;</span> <span class="mi">9</span>
-  <span class="k">end</span>
-<span class="k">end</span>
-
-<span class="k">class</span> <span class="nc">BeerDrinkingService</span>
-  <span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="n">client_id</span><span class="p">,</span> <span class="n">beer_brand</span><span class="p">)</span>
-    <span class="vi">@client</span> <span class="o">=</span> <span class="no">ClientsRepository</span><span class="o">.</span><span class="n">find_by_id_or_create</span><span class="p">(</span><span class="n">client_id</span><span class="p">)</span>
-    <span class="vi">@beer_brand</span> <span class="o">=</span> <span class="n">beer_brand</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nf">valid?</span>
-    <span class="o">!</span><span class="vi">@client</span><span class="o">.</span><span class="n">sack_of_potatoes?</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nf">call</span>
-    <span class="k">return</span> <span class="kp">false</span> <span class="k">unless</span> <span class="n">valid?</span>
-    <span class="vi">@client</span><span class="o">.</span><span class="n">drink_a_beer</span><span class="p">(</span><span class="vi">@beer_brand</span><span class="p">)</span>
-  <span class="k">end</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>Two new things shown up around the code: the first is validation, thus this
-dumb example is enough to return false if someone can&#8217;t drink the
-beer. Otherwise we can consider returning some errors hash. In fact,
-validations are very hard problem itself. There&#8217;s a holy war about where
-do validations should belong to, should they belong to the model like in
-ActiveRecord? But this requires dealing with various contexts very often.
-To the service, or form? Well, this may cause unncecessery repetition,
-and we don&#8217;t want to repeat ourselves. Or maybe validators should be totally separated
-objects, service-like callables for checking various requirements on
-the passed objects? I personally think that what belongs to model,
-should be there, what belongs to service/form should be there. No
-mixing contexts, there&#8217;s nothing worse than dealing with extra states.
-I think validations itself is a good topic for a future blog post,
-stay tuned for it.</p>
-
-
-
-
-<p>The second new thing is <code>ClientsRepository</code>, what&#8217;s that? This is our
-proxy to data storage. <strong>Some, undefined data storage</strong>. You shouldn&#8217;t
-imagine storage as a database. Storage is just a detail. It may be a
-simple Ruby hash. Speaking shortly, <strong>It doesn&#8217;t mather at all</strong>.
-Here&#8217;s how our clients repository may look like:</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="k">class</span> <span class="nc">ClientsMockRepository</span>
-  <span class="no">DB</span> <span class="o">=</span> <span class="p">{}</span>
-
-  <span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">auto_increment</span>
-    <span class="vi">@auto_increment</span> <span class="o">||=</span> <span class="mi">0</span>
-    <span class="vi">@auto_increment</span> <span class="o">+=</span> <span class="mi">1</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">find_by_id</span><span class="p">(</span><span class="n">client_id</span><span class="p">)</span>
-    <span class="no">DB</span><span class="o">[</span><span class="n">client_id</span><span class="o">]</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">create</span>
-    <span class="no">DB</span><span class="o">[</span><span class="n">auto_increment</span><span class="o">]</span> <span class="o">=</span> <span class="no">Client</span><span class="o">.</span><span class="n">new</span>
-  <span class="k">end</span>
-
-  <span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">find_by_id_or_create</span><span class="p">(</span><span class="n">client_id</span><span class="p">)</span>
-    <span class="n">find_by_id</span><span class="p">(</span><span class="n">client_id</span><span class="p">)</span> <span class="ow">or</span> <span class="n">create</span>
-  <span class="k">end</span>
-<span class="k">end</span>
-
-<span class="k">class</span> <span class="nc">ClientsRepository</span> <span class="o">&lt;</span> <span class="no">ClientsMockRepository</span>
-<span class="k">end</span></code></pre>
-
-
-
-
-<p>Now I can imagine a bunch of people saying, <em>Ohh, but how can I retrieve a list
-of all the clients</em>? Let me answer you with a question: Does your domain
-model require that feature?</p>
-
-
-
-
-<p>Second thing, you see that <code>ClientsRepository</code> inherits from a mock repository
-implementation. That&#8217;s how it works, the repository is just a plugin, when
-you decide that you need to have your data persisted, you can just switch
-it to MySQL, Redis or whatever other driver you like. You can use global
-variable as well, use whatever is cleaner for you:</p>
-
-
-
-
-<pre><code class="language-ruby"><span class="vg">$clients_repository</span> <span class="o">=</span> <span class="no">ClientsMockRepository</span></code></pre>
-
-
-
-
-<p>We can go further and further, checking if the beer is available, charging
-the client for his drink, etc. etc. You can play with it at your home -
-yeah, treat it as a homework - you will see by yourself how easy is
-to implement a new features, changing existing ones and move project forward
-when you simply don&#8217;t care about the details - storage, delivery method,
-views, etc.</p>
-
-
-
-
-<p>Oh, let me tell ya, <strong>the tests are blazingly fast</strong> no matter if you&#8217;re
-using RSpec, Cucumber or God knows what other inventention. But, what&#8217;s way
-more important for your clients, it to test what they actually do want to
-test. It doesn&#8217;t test GUI or other shit which <strong>doesn&#8217;t matter</strong> at the
-moment.</p>
-
-
-
-
-<p>As I said, after a while, when you may need a database, you can simply
-write a driver for it, a plugin, because <strong>a database is nothing more
-than a plugin</strong>&#8230; The same happens with visual representations, we can
-wrap our interaction around with some boundaries, write some presenter
-for it, write bunch of Rails spaghetti. We can expose it as a webservice
-and present using only JavaScript. There&#8217;s no limits, can you see it now?
-<strong>You should always keep as much doors open as possible. Good architectural
-decisions allows you to keep doors open</strong>, use it wisely.</p>
-
-
-
-
-<h3 id="Optimize...+pivot?">Optimize&#8230; pivot?</h3>
-
-
-
-
-<p>Well, that&#8217;s all for today. Some of you guys may consider this article
-as a pivot against your mindset, for some it may be just optimization,
-for many others it may be total bullshit. I will be happy to meet
-all of you and listen to your constructive feedback. Maybe your
-feedback will cause a pivot in my mindset? For sure it will optimize
-it!</p>
-
-
-
-
-<p>At the end, I would like to also thank Cubox for how they helped me to
-change my mindset during last year. Thanks to <a href="http://twitter.com/apotonick">apotonick</a>
-again! Big thanks to <a href="https://twitter.com/saturnflyer">Jim Gay</a> for his
-great talk at wroc_love.rb about DCI - even if I don&#8217;t agree with all the
-presented ideas it helped me a lot to clarify mine :P. Also, thanks
-to <a href="https://twitter.com/tlossen">Tim Lossen</a> for raising the glove
-in the battle between monolythic apps versus web-services I go for,
-which caused me to dig deeper and deeper about this topic. I can&#8217;t wait to see
-your talk at EuRuKo! And of course thanks to <a href="http://anarchogeek.com">rabble</a>
-for infecting me with Lean Startup stuff and making me understand it
-in practice.</p>
-
-
-
-
-<p>Like always thanks to <a href="http://twitter.com/poteland">pote</a> for reviewing
-my ugly english.</p>
-
-
-
-
-<div class="author">
-  <img src="https://twimg0-a.akamaihd.net/profile_images/1964798229/awesome2.jpg" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/nu7hatch">Krzysiek Kowalik</a> - check out <a href="http://areyoufuckingcoding.me">Are You Fucking Coding Me!?</a></i>
-  </span>
-</div>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
-  </span>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rubydeps - New Gem by Cuboxer]]></title>
-    <link href="http://tayeb83.github.io/planetTest/blog/2012/03/15/rubydeps-new-gem-by-cuboxer/"/>
-    <updated>2012-03-15T00:00:00+01:00</updated>
-    <id>http://tayeb83.github.io/planetTest/blog/2012/03/15/rubydeps-new-gem-by-cuboxer</id>
-    <content type="html"><![CDATA[<p>One of our cuboxers, <a href="http://www.danielcadenas.com/">Daniel Cadenas</a>, released a new version of his <a href="https://github.com/dcadenas/rubydeps">rubydeps</a> gem:</p>
-
-
-
-
-<blockquote><p>A tool to create class dependency graphs from test suites.</p>
-
-<p>I think this is more useful than static analysis of the code base because of the high dynamic aspects of the language.</p></blockquote>
-
-
-
-
-<p>The gem was featured on <a href="http://rubyweekly.com/">Ruby News</a> - Issue 85 and got some upvotes on <a href="http://www.reddit.com/r/ruby/comments/qok1r/rubydeps_091pre_released_a_tool_that_uses/">reddit ruby</a>.</p>
-
-
-
-
-<p>Fork <a href="https://github.com/dcadenas/rubydeps">rubydeps on github</a>.</p>
-
-
-<div class="author">
-  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
-  <span style="position: absolute; padding: 32px 15px;">
-    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+    <i>Original post by <a href="http://twitter.com/">الفريق الضادي</a> - check out <a href="http://blog.daade.org/">المدونة الضادية</a></i>
   </span>
 </div>
 
