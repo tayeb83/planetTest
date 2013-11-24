@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://tayeb83.github.io/planetTest/sitemap.xml 

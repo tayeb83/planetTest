@@ -1,0 +1,302 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Migrate Your Blog to Octopress Using planet.rb - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="So a few days ago I manned up and decided to finally write planet.rb, mainly because I need to have a way of merging several blogs into one in a tidy &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://tayeb83.github.io/planetTest/blog/2012/04/20/migrate-your-blog-to-octopress-using-planet-rb">
+  <link href="/planetTest/favicon.png" rel="icon">
+  <link href="/planetTest/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/planetTest/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/planetTest/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/planetTest/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:tayeb83.github.io/planetTest" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/planetTest/">Blog</a></li>
+  <li><a href="/planetTest/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Migrate Your Blog to Octopress Using planet.rb</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-20T00:00:00+02:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>So a few days ago I manned up and decided to finally write <a href="http://github.com/pote/planet.rb">planet.rb</a>, mainly because I need to have a way of merging several blogs into one in a tidy way.  This evening (while on a furious caffeine high) I thought of a slightly different application for the gem.</p>
+
+
+
+
+<h2>Octopress is awesome, and you should use it.</h2>
+
+
+
+
+<p>In the last few weeks I&#8217;ve been using <a href="http://octopress.org">Octopress</a> a lot, its a fully customizable blogging engine that just gives you controll of everything. It&#8217;s also powered by the mighty <a href="http://jekyllrb.com">Jekyll</a>, the gem that is also responsible for <a href="http://pages.github.com/">github pages</a>.</p>
+
+
+
+
+<p>The process to set up Octopress is simple, and described perfectly in it&#8217;s <a href="http://octopress.org/docs/">documentation</a>, you basically install a few dependencies, clone the repository, and you are ready to start writing blog posts and deploy your blog to <a href="http://github.com">github</a> or via rsync to a private vps.</p>
+
+
+
+
+<h2>That is kinda neat, but I&#8217;m using { wordpress || blogger || whatever }</h2>
+
+
+
+
+<p>Exactly, and you really shouldn&#8217;t, that&#8217;s where <a href="http://github.com/pote/planet.rb">planet.rb</a> comes into play.</p>
+
+
+
+
+<h2>Import your blog using its RSS/Atom feed</h2>
+
+
+
+
+<p>Once you have followed the <a href="http://octopress.org/docs/">Octopress Docs</a> to the point where you already have a cloned empty blog, simply install planet.rb with <pre> gem install planet </pre> and run the following commands on the Octopress root directory.</p>
+
+
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>▸ planet init
+</span><span class='line'>=&gt; Created default planet.yml</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<p>You will want to open the <strong>planet.yml</strong> file and put only your blog feed (as an example, the feed for this blog is <a href="http://blog.poteland.com/atom.xml">http://blog.poteland.com/atom.xml</a>) and your name as author, you can just put an empty string (&#8221;) for your picture, as we won&#8217;t be using that.</p>
+
+
+
+
+<p>We will also need to empty the author.html template file so that it doesn&#8217;t put up an unnecessary picture of you. Do it with this command</p>
+
+
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>▸ &gt; source/_layouts/author.html</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>▸ planet generate</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<p>That&#8217;s it! planet.rb will pick up your blog, process the posts and save them in Octopress&#8217;s source/_posts/ directory. After that continue with the Octopress setup guide, with all your posts already on it. Congratulations on joining the Octopress community! :)</p>
+
+
+
+
+<div class="author">
+  <img src="http://poteland.com/images/avatars/red_mage.png" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/poteland">Pablo Astigarraga</a> - check out <a href="http://blog.poteland.com/">This is where I tell you stuff</a></i>
+  </span>
+</div>
+
+
+<div class="author">
+  <img src="http://cuboxlabs.com/img/cubox-humans/could-be-you.png" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Original post by <a href="http://twitter.com/">Cubox</a> - check out <a href="http://blog.cuboxlabs.com/">Cubox Blog</a></i>
+  </span>
+</div>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Cubox</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-20T00:00:00+02:00" pubdate data-updated="true"></time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="/planetTest//twitter.com/share" class="twitter-share-button" data-url="http://tayeb83.github.io/planetTest/blog/2012/04/20/migrate-your-blog-to-octopress-using-planet-rb/" data-via="" data-counturl="http://tayeb83.github.io/planetTest/blog/2012/04/20/migrate-your-blog-to-octopress-using-planet-rb/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/planetTest/blog/2012/04/19/mozilla-developer-network-hack-day-montevideo-2012/" title="Previous Post: Mozilla Developer Network Hack Day Montevideo 2012">&laquo; Mozilla Developer Network Hack Day Montevideo 2012</a>
+      
+      
+        <a class="basic-alignment right" href="/planetTest/blog/2012/05/07/may-ruby-meetup/" title="Next Post: May Ruby Meetup">May Ruby Meetup &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/planetTest/blog/2012/09/11/pablo-astigarraga-speaking-at-rs-on-rails/">Pablo Astigarraga Speaking at RS on Rails</a>
+      </li>
+    
+      <li class="post">
+        <a href="/planetTest/blog/2012/09/10/join-us-tomorrow-for-september-s-ruby-meetup/">Join Us Tomorrow for September&#39;s Ruby Meetup</a>
+      </li>
+    
+      <li class="post">
+        <a href="/planetTest/blog/2012/09/05/we-are-joining-new-context/">We Are Joining New Context!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/planetTest/blog/2012/08/08/cuboxer-pablo-astigarraga-speaking-at-eurucamp-2012/">Cuboxer Pablo Astigarraga Speaking at Eurucamp 2012</a>
+      </li>
+    
+      <li class="post">
+        <a href="/planetTest/blog/2012/07/13/on-git-commits-and-programming-style/">On Git Commits and Programming Style</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

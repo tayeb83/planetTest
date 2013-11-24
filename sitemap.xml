@@ -1,95 +1,119 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2012/03/15/rubydeps-new-gem-by-cuboxer/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <loc>
+            http://tayeb83.github.io/planetTest/blog/2012/03/15/rubydeps-new-gem-by-cuboxer/
+        </loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2012/03/24/nothing-really-matters/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <loc>http://tayeb83.github.io/planetTest/blog/2012/03/24/nothing-really-matters/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2012/03/29/we-re-hiring/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <loc>http://tayeb83.github.io/planetTest/blog/2012/03/29/we-re-hiring/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://yoursite.com/blog/2012/04/11/cubox-brings-back-ruby-meetups-to-montevideo/
+            http://tayeb83.github.io/planetTest/blog/2012/04/11/cubox-brings-back-ruby-meetups-to-montevideo/
         </loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/04/14/i-made-a-pretty-gem-planet-rb/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/04/15/dependency-hell/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://yoursite.com/blog/2012/04/19/mozilla-developer-network-hack-day-montevideo-2012/
+            http://tayeb83.github.io/planetTest/blog/2012/04/14/i-made-a-pretty-gem-planet-rb/
         </loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tayeb83.github.io/planetTest/blog/2012/04/15/dependency-hell/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://yoursite.com/blog/2012/04/20/migrate-your-blog-to-octopress-using-planet-rb/
+            http://tayeb83.github.io/planetTest/blog/2012/04/19/mozilla-developer-network-hack-day-montevideo-2012/
         </loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/05/07/may-ruby-meetup/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/05/15/thanks-for-a-great-ruby-meetup/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://yoursite.com/blog/2012/05/21/cuboxer-bruno-aguirre-confirmed-as-a-speaker-at-euruko-2012/
+            http://tayeb83.github.io/planetTest/blog/2012/04/20/migrate-your-blog-to-octopress-using-planet-rb/
         </loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2012/06/11/june-ruby-meetup/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/06/15/evan-and-diego-on-national-tv/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/06/18/how-to-get-good-developers/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/06/26/new-cuboxer-jaime-davila/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/07/13/on-git-commits-and-programming-style/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <loc>http://tayeb83.github.io/planetTest/blog/2012/05/07/may-ruby-meetup/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://yoursite.com/blog/2012/08/08/cuboxer-pablo-astigarraga-speaking-at-eurucamp-2012/
+            http://tayeb83.github.io/planetTest/blog/2012/05/15/thanks-for-a-great-ruby-meetup/
         </loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/2012/09/05/we-are-joining-new-context/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://yoursite.com/blog/2012/09/10/join-us-tomorrow-for-september-s-ruby-meetup/
+            http://tayeb83.github.io/planetTest/blog/2012/05/21/cuboxer-bruno-aguirre-confirmed-as-a-speaker-at-euruko-2012/
         </loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2012/09/11/pablo-astigarraga-speaking-at-rs-on-rails/</loc>
-        <lastmod>2013-11-24T19:04:10+01:00</lastmod>
+        <loc>http://tayeb83.github.io/planetTest/blog/2012/06/11/june-ruby-meetup/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://tayeb83.github.io/planetTest/blog/2012/06/15/evan-and-diego-on-national-tv/
+        </loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tayeb83.github.io/planetTest/blog/2012/06/18/how-to-get-good-developers/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tayeb83.github.io/planetTest/blog/2012/06/26/new-cuboxer-jaime-davila/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://tayeb83.github.io/planetTest/blog/2012/07/13/on-git-commits-and-programming-style/
+        </loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://tayeb83.github.io/planetTest/blog/2012/08/08/cuboxer-pablo-astigarraga-speaking-at-eurucamp-2012/
+        </loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tayeb83.github.io/planetTest/blog/2012/09/05/we-are-joining-new-context/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://tayeb83.github.io/planetTest/blog/2012/09/10/join-us-tomorrow-for-september-s-ruby-meetup/
+        </loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://tayeb83.github.io/planetTest/blog/2012/09/11/pablo-astigarraga-speaking-at-rs-on-rails/
+        </loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tayeb83.github.io/planetTest/robots.txt</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tayeb83.github.io/planetTest/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tayeb83.github.io/planetTest/blog/archives/</loc>
+        <lastmod>2013-11-24T19:21:04+01:00</lastmod>
     </url>
 </urlset>
